@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" 
+        android:title="@string/gesture_unlock" 
+        android:key="key_gesture_list_settings">        
+    
+    <com.android.settings.gesture.HctTpGestureSwitchPreference
+        android:layout="@layout/hct_preference_switch_item"
+        android:key="key_gesture_double"
+        android:title="@string/gesture_double" />
+    <com.android.settings.gesture.HctTpGestureSwitchPreference
+        android:layout="@layout/hct_preference_switch_item"
+        android:key="key_gesture_up"
+        android:title="@string/gesture_up" />
+
+    <com.android.settings.gesture.HctTpGestureSwitchPreference
+        android:layout="@layout/hct_preference_switch_item"
+        android:key="key_gesture_down"
+        android:title="@string/gesture_down" />
+    <com.android.settings.gesture.HctTpGestureSwitchPreference
+        android:layout="@layout/hct_preference_switch_item"
+        android:key="key_gesture_left_right"
+        android:title="@string/gesture_left_right" />	
+    <com.android.settings.gesture.HctTpGestureSwitchPreference
+        android:layout="@layout/hct_preference_switch_item"
+        android:key="key_gesture_right"
+        android:title="@string/gesture_left_right" />
+    <com.android.settings.gesture.HctTpGestureSwitchPreference
+        android:layout="@layout/hct_preference_switch_item"
+        android:key="key_gesture_m"
+        android:title="@string/gesture_m" />
+    <com.android.settings.gesture.HctTpGestureSwitchPreference
+        android:layout="@layout/hct_preference_switch_item"
+        android:key="key_gesture_c"
+        android:title="@string/hct_gesture_c_title" 
+        android:summary="@string/hct_gesture_c_summary" />
+    <com.android.settings.gesture.HctTpGestureSwitchPreference
+        android:layout="@layout/hct_preference_switch_item"
+        android:key="key_gesture_e"
+        android:title="@string/hct_gesture_e_title" 
+        android:summary="@string/hct_gesture_e_summary" />
+    <com.android.settings.gesture.HctTpGestureSwitchPreference
+        android:layout="@layout/hct_preference_switch_item"
+        android:key="key_gesture_o"
+        android:title="@string/hct_gesture_o_title" 
+        android:summary="@string/hct_gesture_o_summary" />
+    <com.android.settings.gesture.HctTpGestureSwitchPreference
+        android:layout="@layout/hct_preference_switch_item"
+        android:key="key_gesture_w"
+        android:title="@string/hct_gesture_w_title" 
+        android:summary="@string/hct_gesture_w_summary" />
+    <com.android.settings.gesture.HctTpGestureSwitchPreference
+        android:layout="@layout/hct_preference_switch_item"
+        android:key="key_gesture_z"
+        android:title="@string/hct_gesture_z_title" 
+        android:summary="@string/hct_gesture_z_summary" />
+    <com.android.settings.gesture.HctTpGestureSwitchPreference
+        android:layout="@layout/hct_preference_switch_item"
+        android:key="key_gesture_v"
+        android:title="@string/hct_gesture_v_title"
+        android:summary="@string/hct_gesture_v_summary" />
+           <com.android.settings.gesture.HctTpGestureSwitchPreference
+        android:layout="@layout/hct_preference_switch_item"
+        android:key="key_gesture_s"
+        android:title="@string/hct_gesture_s_title"
+        android:summary="@string/hct_gesture_s_summary" />
+</PreferenceScreen>

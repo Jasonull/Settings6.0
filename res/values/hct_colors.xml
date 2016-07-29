@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="applock_digital_psw">#ffccd3d6</color>
+    <color name="applock_list_item_bg_color">#ffeeeeee</color>
+    <color name="applock_list_item_bg_color_focus">#ffffe9a1</color>
+     <!-- add by jiashixian -->
+    <color name="digital_psw">#ffccd3d6</color>
+    <color name="list_item_bg_color">#ffeeeeee</color>
+    <color name="list_item_bg_color_focus">#ffffe9a1</color>
+<!-- add by jiashixian -->
+
+</resources>

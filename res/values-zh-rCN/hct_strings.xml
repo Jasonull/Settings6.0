@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="hct_select_app">请选择应用</string>
+    <!-- <<hct:mingming.wu -->
+    <string name="accessibility_gesture_preference_title">手势感应</string>
+    <string name="accessibility_somatosensory_preference_title">智能体感</string>
+
+    <string name="accessibility_toggle_gallery_preference_title">图库</string>
+    <string name="accessibility_toggle_gallery_preference_summary">在图库的照片之间移动</string>
+    <string name="accessibility_toggle_music_preference_title">音乐播放器</string>
+    <string name="accessibility_toggle_music_preference_summary">在音乐列表中的歌曲之间移动</string>
+    <string name="accessibility_toggle_camera_preference_title">相机</string>
+    <string name="accessibility_toggle_camera_preference_summary">在相机中拍照</string>
+    <string name="accessibility_toggle_launcher_preference_title">桌面</string>
+    <string name="accessibility_toggle_launcher_preference_summary">在主屏或菜单页面中移动至下一页</string>
+    <string name="accessibility_toggle_lockscreen_preference_title">解锁</string>
+    <string name="accessibility_toggle_lockscreen_preference_summary">在上锁界面，将手掌在手机的距离传感器位置晃动一下，手机会自动解锁进入待机界面</string>
+    <string name="accessibility_toggle_mmsdial_preference_title">短信体感拨号</string>
+    <string name="accessibility_toggle_mmsdial_preference_summary">在查看信息界面，拿起手机贴近面部可直接拨打该联系人电话</string>
+    <string name="accessibility_toggle_contactdial_preference_title">联系人体感拨号 </string>
+    <string name="accessibility_toggle_contactdial_preference_summary">在联系人详情界面，拿起手机贴近面部可以直接拨打该联系人号码</string>
+    <string name="accessibility_toggle_autoanswer_preference_title">来电车载接听</string>
+    <string name="accessibility_toggle_autoanswer_preference_summary">来电时，将手掌在手机的距离传感器位置停留2秒，手机自动接听电话</string>
+    <!-- hct:mingming.wu -->
+
+    <!-- add for ram auto answer warning(start) -->
+    <string name="open_auto_answer_warning">合上皮套时不建议使用此功能,可能会造成电话自动接听</string>
+    <!-- add for ram auto answer warning(end) -->
+    <string name="hct_title_gesture_motion">手势体感</string>
+    <string name="gesture_unlock">智能唤醒</string>
+    <string name="gesture_double">双击唤醒</string>
+    <string name="gesture_up">上滑解锁</string>
+    <string name="gesture_down">下滑拍照</string>
+    <string name="gesture_left_right">横滑切歌</string>
+    <string name="gesture_c">画c唤醒拨号</string>
+    <string name="gesture_m">画m播放暂停音乐</string>
+    <string name="gesture_e">画e唤醒浏览器</string>
+    <string name="gesture_o">画o唤醒QQ</string>
+    <string name="gesture_w">画w唤醒微信</string>
+    <string name="gesture_z">画z唤醒语音助理</string>
+    <string name="hct_gesture_c_title">手势 c</string>
+    <string name="hct_gesture_c_summary">拨号</string>
+    <string name="hct_gesture_m_title">手势 m</string>
+    <string name="hct_gesture_m_summary">音乐</string>
+    <string name="hct_gesture_e_title">手势 e</string>
+    <string name="hct_gesture_e_summary">浏览器</string>
+    <string name="hct_gesture_o_title">手势 o</string>
+    <string name="hct_gesture_o_summary">QQ</string>
+    <string name="hct_gesture_w_title">手势 w</string>
+    <string name="hct_gesture_w_summary">微信</string>
+    <string name="hct_gesture_z_title">手势 z</string>
+    <string name="hct_gesture_z_summary">语音</string>
+    <string name="hct_gesture_v_title">手势 v</string>
+    <string name="hct_gesture_v_summary">短信</string>
+    <string name="hct_gesture_s_title">手势 s</string>
+    <string name="hct_gesture_s_summary">短信</string>
+    <string name="hct_gesture_down_title">手势 往下滑</string>
+    <string name="hct_gesture_down_summary">相机</string>
+    <string name="hct_gesture_summary">默认</string>
+    <string name="hct_gesture_action">启动</string>
+    <string name="hct_gesture_choose_app">选择启动程序</string>
+    <!-- add for Gesture settings for doogee . hct.zhouzhigang 20150105 -->
+    <string name="hct_title_system_gesture">系统体感</string>
+    <string name="hct_title_three_point_screenshot">三指截屏</string>
+    <string name="hct_title_three_point_screenshot_mark">三指向下滑动快速截图</string>
+    <string name="hct_title_clipscreen">自由截图</string>
+    <string name="hct_title_clipscreen_mark">长按menu键开启自由截图模式</string>
+    <string name="hct_title_three_point_entrycamera">三指进入相机</string>
+    <string name="hct_title_three_point_entrycamera_mark">三指向上滑动快速进入相机</string>
+    <string name="hct_title_two_point_adjust_volume">双指调节音量</string>
+    <string name="hct_title_two_point_adjust_volume_mark">在任意界面双指上下滑动调节音量</string>
+    <string name="hct_title_double_click_lock">双击锁屏</string>
+    <string name="hct_title_double_click_lock_mark">在任意界面上快速双击HOME键锁屏</string>
+    <!-- add for Gesture settings for doogee. hct.zhouzhigang 20150105 -end -->
+
+    <!-- add for Gesture settings . hct.zhouzhigang 20141024 -->
+    <string name="hct_title_gesture_motion">手势体感</string>
+    <string name="hct_title_telephony_motion">通讯体感</string>
+    <string name="hct_title_telephony_motion_mark">翻转静音，甩动接听</string>
+    <string name="hct_title_turn_silence">翻转静音</string>
+    <string name="hct_title_turn_silence_mark">翻转手机以静音来电</string>
+    <string name="hct_title_smart_answer">智能接听</string>
+    <string name="hct_title_smart_answer_mark">来电拿起电话放到耳边自动接听</string>
+    <string name="hct_title_answer_by_swing">甩动接听</string>
+    <string name="hct_title_answer_by_swing_mark">来电时，甩动手机接听电话</string>
+    <string name="hct_title_smart_switch">智能切换</string>
+    <string name="hct_title_smart_switch_mark">拿起电话放到耳边关闭免提</string>
+    <string name="hct_title_system_motion">系统体感</string>
+    <string name="hct_title_system_motion_mark">双击锁屏</string>
+    <string name="hct_title_system_motion_mark2">在任意界面快速双击HOME键锁屏</string>
+    <!-- add for Gesture settings . hct.zhouzhigang 20141024 -end -->
+
+    <!-- liuyang add begin @20141008 -->
+    <string name="led_settings">指示灯</string>
+    <string name="led_settings_charge">充电</string>
+    <string name="led_settings_charge_summary">充电红灯长亮，充满绿灯长亮</string>
+    <string name="led_settings_low_battery">低电量</string>
+    <string name="led_settings_low_battery_summary">低电量时红灯闪烁</string>
+    <string name="led_settings_notify">错过事件</string>
+    <string name="led_settings_notify_summary">黑屏有未接电话、未读短信等事件时蓝灯闪烁</string>
+    <string name="led_settings_app">应用消息</string>
+    <string name="led_settings_app_summary">锁屏显示第三方内容亮起</string>
+    <string name="led_settings_auto_brightness">自动调整呼吸灯亮度</string>
+    <!-- liuyang add begin @20141008 -->
+    <string name="hct_gesture_string_changeup">上滑</string>
+    <string name="hct_gesture_string_changedown">下滑</string>
+    <string name="hct_gesture_string_changeleft">左滑</string>
+    <string name="hct_gesture_string_changeright">右滑</string>
+    <string name="hct_gesture_string_changem">手势 m</string>
+      <!--add by hct-zhangcy-->
+    <string name="hall_switch_title">霍尔</string>
+    <string name="hall_switch_summary">合盖显示时钟等</string>
+    <!--add by hct-zhangcy end-->
+
+
+    <!-- HCT: chenyichong add for floatview -->
+    <string name="hct_floatview_title">悬浮手势</string>
+    <string name="hct_floatview_open">悬浮开关</string>
+    <string name="hct_floatview_settings">手写设置</string>
+    <!-- HCT: chenyichong add for floatview -->
+
+    <!-- Egistec fingerprint string -->
+    <string name="fingerprint_settings_title">指纹</string>
+    <string name="fingerprint_function_title">指纹可用于</string>
+    <string name="fingerprint_unlock_keyguard_title">解锁屏幕</string>
+    <string name="fingerprint_unlock_keyguard_summary">允许在锁屏界面使用指纹解锁</string>
+    <string name="fingerprint_unlock_application_title">访问应用锁及解锁应用</string>
+    <string name="fingerprint_unlock_application_summary">需要先启动应用锁才能绑定指纹</string>
+    <string name="fingerprint_unlock_quickstart_title">快速启动</string>
+    <string name="fingerprint_unlock_quickstart_summary">您可设定不同的手指启动不同的应用</string>
+    <string name="fingerprint_list_title">指纹列表</string>
+    <string name="fingerprint_title_1">指纹1</string>
+    <string name="fingerprint_title_2">指纹2</string>
+    <string name="fingerprint_title_3">指纹3</string>
+    <string name="fingerprint_title_4">指纹4</string>
+    <string name="fingerprint_title_5">指纹5</string>
+    <string name="fingerprint_title_new">添加指纹</string>
+    <string name="fingerprint_enrolled_title">录入成功</string>
+    <string name="fingerprint_enrolled_fail_title">录入失败</string>
+    <string name="fingerprint_string_title">录入指纹</string>
+    <string name="fingerprint_string_prompt">请将手指放在指纹识别器上录入指纹感觉到振动后再抬起手指重复录入</string>
+    <string name="fingerprint_string_title_2">请录入指纹</string>
+    <string name="fingerprint_string_prompt_2">请根据提示按压指纹识别器录入指纹，感觉到振动后抬起手指并调整姿势继续录入</string>
+    <string name="fingerprint_string_prompt_3">当前录入进度</string>
+    <string name="fingerprint_string_tip">指纹正面信息已经录入请录入指纹边缘,感觉到振动后抬起手指并调整姿势继续录入</string>
+    <string name="fingerprint_string_tip1">请移动手指并调整手指姿势继续录入指纹</string>
+    <string name="fingerprint_string_delete">删除</string>
+    <string name="fingerprint_string_ok">确定</string>
+    <string name="fingerprint_string_cancel">取消</string>
+    <string name="fingerprint_string_rename">重命名</string>
+    <string name="fingerprint_detail_title">指纹详情</string>
+    <string name="fingerprint_keyguard_method">锁屏方式</string>
+    <string name="fingerprint_keyguard_content">更改锁屏方式将关闭指纹解锁功能，是否继续？</string>
+    <string name="fingerprint_choose_lock_title">选择锁屏方式</string>
+    <string name="fingerprint_start_enroll_now">录入</string>
+    <string name="fingerprint_start_enroll_then">稍后录入</string>
+    <string name="fingerprint_bind_start_enroll_keyguard">当前没有指纹信息，需要先录入指纹后才能绑定解锁屏幕功能，是否立即录入？</string>
+    <string name="fingerprint_bind_start_enroll_applock">当前没有指纹信息，需要先录入指纹后才能绑定应用锁，是否立即录入？</string>
+    <string name="fingerprint_bind_start_enroll_quickstart">当前没有指纹信息，需要先录入指纹后才能绑定快速启动，是否立即录入？</string>
+    <string name="applock_app_name">程序锁</string>
+    <string name="applock_enter_psw_16">"请输入密码或指纹"</string>
+    <string name="applock_clear_all">清空</string>
+    <string name="applock_header_back">返回</string>
+    <string name="applock_lockapp_psw_wrong">"密码错误，请重新输入"</string>
+    <string name="applock_lockapp_psw_not_match">"密码不匹配!"</string>
+    <string name="applock_lockapp_psw_confirm">"确认您的密码"</string>
+    <string name="applock_lockapp_continue">"继续"</string>
+    <string name="fingerprint_error">指纹验证失败，请再试一次</string>
+    <string name="fingerprint_error_too_many">指纹失败次数过多,请尝试用密码解锁！</string>
+    <string name="fingerprint_summary">选择需要绑定的应用</string>
+    <string name="fingerprint_quickstart_summary">该指纹已绑定：</string>
+           <string name="applock_settings_title">隐私保护</string>
+<!--add by hct-zhangcy for fastcamera-->
+    <string name="hct_fastcamera_title">快捷相机</string>
+    <string name="hct_fastcamera_summary">灭屏状态下长按开机键快捷拍照</string>
+    <string name="hct_fastcamera_open">快捷相机开关</string>
+    <string name="ftp_please_wait">指纹设备正在初始化，此时请勿触摸指纹设备和退出此界面，如已触摸可在进入当前界面中的指纹校准，重新校准！</string>
+    <string name="ftp_please_wait_ext">指纹设备正在初始化，此时请勿触摸指纹设备和退出此界面！</string>
+    <string name="ftp_init_success">指纹设备初始化成功!</string>
+    <string name="ftp_init_fail">指纹设备初始化失败，请进入校准菜单重新校准!</string>
+    <string name="ftp_init_fail_ext">指纹设备初始化失败，请点击校准按钮重新校准!</string>
+    <string name="ftp_off_screen_calibration_string">指纹校准</string>
+    <string name="ftp_off_screen_calibration_summary_string">指纹黑屏解锁所需数据校准</string>
+    <string name="ftp_off_screen_calibration_note">  在指纹黑屏解锁不是很灵敏时，或者初次初始化出问题时，可以点击下面按钮重新进行初始化。初始化过程中不要用手或者其他东西触摸指纹设备，不然会导致指纹初始化失败或者后续使用出现不灵敏。</string>
+    <string name="ftp_is_repeat">此指纹已经存在，请尝试用其他手指录入！</string>
+    <string name="ftp_quick_start">指纹快捷启动</string>
+    <string name="ftp_quick_start_summary">允许用除解锁屏幕之外的手指启动对应功能</string>
+    <string name="ftp_quick_start_confirm">当前没有指纹信息，需要先录入指纹后才能开启快捷启动，是否立即录入？</string>
+    <string name="ftp_quick_start_setting">设定快捷启动功能</string>
+    <string name="ftp_quick_start_setting_item_unlock">解锁</string>
+    <string name="ftp_quick_start_setting_item_flashshot">闪拍</string>
+    <string name="ftp_quick_start_setting_item_wechat">微信</string>
+    <string name="ftp_quick_start_setting_item_more">更多应用</string>
+    <string name="ftp_quick_start_setting_app_occupancy">该功能已被<xliff:g id="finger_name">%s</xliff:g>占用</string>
+    <string name="ftp_quick_start_setting_camera_select_title">请选择摄像头</string>
+    <string name="ftp_quick_start_setting_camera_select_camera">后置摄像头</string>
+    <string name="ftp_quick_start_setting_camera_select_subcamera">前置摄像头</string>
+    <string name="ftp_quick_start_setting_camera_select_finger_title">点击要设置的手指</string>
+    <string name="ftp_quick_start_setting_camera_select_finger_summary">为了您更方便的管理指纹功能，请务必按照对应的手指录入指纹，如不按照对应的指纹录入将会影响您的体验！</string>
+    <string name="ftp_quick_start_setting_camera_select_finger_toast">该手指已经录入，请用其他手指录入!</string>
+    <string name="ftp_quick_start_setting_app_summary">快捷启动<xliff:g id="finger_name">%s</xliff:g></string>
+    <string name="ftp_quick_start_setting_app_onlylock_summary">解锁屏幕及应用</string>
+    <string name="ftp_enroll_done">完成</string>
+    <string name="ftp_delete_dialog_title">删除指纹</string>
+    <string name="ftp_delete_dialog_msg">确认要删除指纹？</string>
+    <string name="ftp_camera_takephoto">指纹拍照</string>
+    <string name="ftp_camera_takephoto_summary">相机界面手指按压指纹就可以拍照</string>
+    <string name="ftp_answer_call">接听电话</string>
+    <string name="ftp_answer_call_summary">来电时手指按压指纹就可以接听电话</string>
+    <string name="ftp_browser_image">浏览相册</string>
+    <string name="ftp_browser_image_summary">图库界面触摸指纹可以浏览相册</string>
+    <string name="ftp_play_music">播放音乐</string>
+    <string name="ftp_play_music_summary">音乐播放界面触摸指纹可以播放和暂停音乐</string>
+    <string name="ftp_play_video">播放视频</string>
+    <string name="ftp_play_video_summary">视频播放界面触摸指纹可以播放和暂停视频</string>
+    <string name="ftp_browser_home">主界面翻页</string>
+    <string name="ftp_browser_home_summary">主界面触摸指纹可以翻页</string>
+    <string name="ftp_string_more">更多功能</string>
+    <string name="ftp_quick_start_none">无</string>
+    <string name="ftp_enroll_back">返回重新选择</string>
+    <!-- add for egistec ftp -->
+    <!-- HCT: xuejin newschip fingerprint -->
+    <string name="sensor_removed">指纹传感器已被移除</string>
+    <string name="sensor_not_found">没有指纹传感器</string>
+    <string name="finger_previously_enrolled">当前录入的手指已存在，请更换手指。</string>
+    <string name="too_many_bad_swipes">获得到的指纹信息不足</string>
+    <string name="mather_add_image_failed">添加指纹失败</string>
+    <!-- HCT: xuejin newschip fingerprint -->
+
+    <!-- add by hct lijunyi, 2015-06-05, for desktop setting -->
+    <string name="hct_settings_desktop">桌面设置</string>
+    <!-- end of add by hct lijunyi, 2015-06-05, for desktop setting -->
+
+    <!-- added by hct lijunyi, 2015-06-06, for HCT_SIM_SETTINGS -->
+    <string name="hct_sim_data_title">数据服务</string>
+    <string name="hct_sim_data_content">"数据连接服务默认已打开。该服务是收费服务，建议使用包月套餐。"</string>
+    <string name="hct_sim_data_btn_disable">关闭</string>
+    <string name="hct_sim_data_btn_enable">打开</string>
+    <string name="hct_sim_apn_title">"APN 配置"</string>
+    <string name="hct_sim_apn_content">"为保证正常的网络浏览，请配置您的网络连接参数。"</string>
+    <string name="hct_sim_apn_btn_change">更改</string>
+    <string name="hct_sim_apn_btn_close">关闭</string>
+    <!-- end of added by hct lijunyi, 2015-06-06, for HCT_SIM_SETTINGS -->
+    <string name="hct_storage_info_title">存储信息</string>
+    <string name="hct_storage_total_title">整机总容量</string>
+    <string name="hct_storage_system_title">系统空间</string>
+    <string name="hct_storage_phone_title">手机存储</string>
+    <string name="hardware_info">硬件信息</string>
+    <string name="cpu_model">CPU型号</string>
+    <string name="cpu_model_info">MT6735</string>
+    <string name="cpu_core">CPU核心数</string>
+    <string name="cpu_core_info">4核</string>
+    <string name="cpu_frequency">CPU频率</string>
+    <string name="cpu_frequency_info">1GHZ</string>
+    <string name="phone_rom">手机ROM容量</string>
+    <string name="phone_rom_info">16.0GB</string>
+    <string name="phone_ram">手机RAM容量</string>
+    <string name="phone_ram_info">2.0GB</string>
+    <string name="screen_resolution">屏幕分辨率</string>
+    <string name="screen_resolution_info">1280x720</string>
+    <string name="screen_size">屏幕尺寸</string>
+    <string name="screen_size_info">5.0英寸</string>
+    <string name="key_brightness_title">"按键灯"</string>
+    <string name="key_brightness_summary">"选中开启按键灯"</string>
+
+    <!-- added by zhaoxiaoxiang -->
+    <string name="hct_goto_home_after_lock_title">解锁进入桌面</string>
+    <string name="hct_goto_home_after_lock_title_sunmry">解锁之后，直接进入桌面</string>
+    <!-- end of added by zhaoxiaoxiang -->
+    <!-- added by liuwenbo-->
+    <string name="hct_customer_main_camera_title">主摄像头</string>
+    <string name="hct_customer_main_camera_summary">1300W</string>
+    <string name="hct_customer_sub_camerai_title">副摄像头</string>
+    <string name="hct_customer_sub_camera_summary">500W</string>
+    <!-- end of added by liuwenbo -->
+    <!-- liuyang add begin @20150629 -->
+    <string name="hct_glove_mode_title" translatable="false">手套模式</string>
+    <string name="hct_glove_mode_content" translatable="false">打开手套模式后，戴上手套也能方便的操作手机。</string>
+    <!-- liuyang add end @20150629 -->
+    <!-- zhangwenqiang add begin @20150701 -->
+    <string name="hct_privacy_unlock_title">隐私解锁</string>
+    <string name="hct_privacy_unlock_summary">设备主屏幕总是解锁</string>
+    <!-- zhangwenqiang add begin @20150701 -->
+    <!-- add by jiashixian-->
+	<string name="hct_visitor_mode_string">访客模式</string>
+	<string name="visitor_mode_warning">访客模式会隐藏通话记录、信息、图片以及禁止编辑桌面</string>
+	<string name="visitor_mode_description">打开访客模式会隐藏通话记录、信息、图片以及禁止编辑桌面</string>
+	  <string name="lockapp_psw_wrong">"密码错误，请重新输入"</string>
+	    <string name="lockapp_psw_not_match">"密码不匹配!"</string>
+	    <string name="lockapp_psw_confirm">"确认您的密码"</string>
+	    <string name="lockapp_continue">"继续"</string>
+	   
+    <string name="enter_psw_16">"请输入密码(1-16位)"</string>
+    <string name="clear_all">清空</string>
+    <string name="header_back">返回</string>
+    <string name="title_setting">设置</string>
+ <!-- end by jiashixian-->
+    <string name="accessibility_smartmode_preference_title">智能模式</string>
+   <string name="accessibility_toggle_smartread_preference_title">智能阅读</string>
+    <string name="accessibility_toggle_smartread_preference_summary">检测到您正在看屏幕，屏幕将继续为您亮起</string>
+
+    <!-- added by hct jiashiian,  for psensor gesture 2015-06-010 -->
+    <string name="hct_psensor_gesture_title">手势与动作</string>
+    <string name="hct_psensor_gesture_fmradio_title">收音机</string>
+    <string name="hct_psensor_gesture_fmradio_summary">收音机播放时, 在屏幕上方左右挥动手掌以跳到上/下一个频道</string>
+    <string name="hct_psensor_gesture_gallery_title">图库</string>
+    <string name="hct_psensor_gesture_gallery_summary">浏览图库时, 在屏幕上方左右挥动手掌以跳到上/下一张图片</string>
+    <string name="hct_psensor_gesture_launcher_title">启动器</string>
+    <string name="hct_psensor_gesture_launcher_summary">在启动器时, 在屏幕上方左右挥动手掌以跳到上/下一个界面</string>
+    <string name="hct_psensor_gesture_autoanswer_title">来电</string>
+    <string name="hct_psensor_gesture_autoanswer_summary">来电时，在屏幕上方左右挥动手掌以拒接/应答来电</string>
+    <string name="hct_psensor_gesture_music_title">音乐</string>
+    <string name="hct_psensor_gesture_music_summary">播放音乐时, 在屏幕上方左右挥动手掌以跳到上/下一首歌</string>
+    <!-- end of add by hct jiashixian, 2015-06-10, for psensor gesture setting -->
+    <!--macong -->
+    
+<string name="about_phone_setting">手机名称：</string>
+<string name="about_phone_info">DINGDING手机</string>
+<string name="about_phone_setting_cpu">处理器</string>
+<string name="about_phone_info_cpu">四核 1.0GHZ</string>
+<string name="about_phone_setting_ui">DDUI 版本：</string>
+<string name="about_phone_info_ui">1.0</string>
+<string name="about_phone_setting_ram">运行内存</string>
+<string name="about_phone_info_ram">2.0GB</string>
+<string name="about_phone_setting_rom">机身存储</string>
+<string name="about_phone_info_rom">10.6G(可用)\n16.0G(总容量)</string>
+<string name="about_phone_setting_gpu">GPU</string>
+<string name="about_phone_info_gpu">OpenGL ES 3.1</string>
+<string name="build_manufacturers">制造商</string>
+<!--wangxiaobo start-->
+    <string name="power_onoff_music_title">开关机铃声</string>
+<!--wangxiaobo end-->
+<!--caoweishuang start-->
+    <string name="woo_ota_update">无线升级</string>
+<!--caoweishuang end-->
+<!-- Pocked Mode-->
+    <string name="pocket_mode_title">口袋模式</string>
+   <string name="pocket_mode_summary">在口袋中时自动增大来电铃声</string>
+           <!--add by hct-lvcheng-->
+        <string name="sms_color">未读信息</string>
+        <string name="call_color">未接来电</string>
+        <string name="batterylow_color">电量低</string>
+        <string name="batteryfull_color">电量充足</string>
+        <string name="sms_color_summary">当有未读信息时，显示</string>
+        <string name="call_color_summary">当有未接来电时，显示</string>
+        <string name="batterylow_color_summary">当电量低于15%%时，显示</string>
+        <string name="batteryfull_color_summary">当电量充足时，显示</string>
+        <string name="notifycolor_green">绿色</string>
+        <string name="notifycolor_blue">蓝色</string>
+        <string name="notifycolor_red">红色</string>
+      <string name="hct_three_color_light">三色灯</string>
+   <string name="notice_indicator_title">"通知指示灯"</string>
+   <string name="notice_indicator_summary">"在收到新通知时，LED指示灯会提示"</string>
+   <string name="battery_indicator_title">"电量指示灯"</string>
+   <string name="battery_indicator_summary">"充电或低电量时，指示灯会提示"</string>
+</resources>

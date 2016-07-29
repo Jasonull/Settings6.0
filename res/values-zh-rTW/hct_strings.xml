@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!--<<hct:mingming.wu -->
+    <string name="accessibility_gesture_preference_title">手勢感應</string>
+    <string name="accessibility_somatosensory_preference_title">智能體感</string>
+
+    <string name="accessibility_toggle_gallery_preference_title">圖庫</string>
+    <string name="accessibility_toggle_gallery_preference_summary">在圖庫的照片之間移動</string>
+    <string name="accessibility_toggle_music_preference_title">音樂播放器</string>
+    <string name="accessibility_toggle_music_preference_summary">在音樂列表中的歌曲之間移動</string>
+    <string name="accessibility_toggle_camera_preference_title">相機</string>
+    <string name="accessibility_toggle_camera_preference_summary">在相機中拍照</string>
+    <string name="accessibility_toggle_launcher_preference_title">桌面</string>
+    <string name="accessibility_toggle_launcher_preference_summary">在主屏或菜單頁面中移動至下一頁</string>
+    <string name="accessibility_toggle_lockscreen_preference_title">解鎖</string>
+    <string name="accessibility_toggle_lockscreen_preference_summary">在上鎖界面，將手掌在手機的距離傳感器位置晃動一下，手機會自動解鎖進入待機界面</string>
+
+    <string name="accessibility_toggle_mmsdial_preference_title">短信體感撥號</string>
+    <string name="accessibility_toggle_mmsdial_preference_summary">在查看信息界面，拿起手機貼近面部可直接撥打該聯繫人電話</string>
+    <string name="accessibility_toggle_contactdial_preference_title">聯繫人體感撥號 </string>
+    <string name="accessibility_toggle_contactdial_preference_summary">在聯繫人详情界面，拿起手機貼近面部可直接撥打該聯繫人電話</string>
+    <string name="accessibility_toggle_autoanswer_preference_title">來電車載接聽</string>
+    <string name="accessibility_toggle_autoanswer_preference_summary">來電時，將手掌在手機的距離傳感器位置晃動一下，手機自動接聽電話</string>
+    <!--hct:mingming.wu -->
+
+	<!-- add for Gesture settings for doogee . hct.zhouzhigang 20150105 -->
+	<string name="hct_title_system_gesture">系統體感</string>
+    <string name="hct_title_three_point_screenshot">三指截屏</string>
+	<string name="hct_title_three_point_screenshot_mark">三指向下滑動快速截圖</string>
+    <string name="hct_title_clipscreen">自由截圖</string>
+    <string name="hct_title_clipscreen_mark">長按menu鍵開啟自由截圖模式</string>
+    <string name="hct_title_two_point_adjust_volume">雙指調節音量</string>
+	<string name="hct_title_two_point_adjust_volume_mark">在任意界面雙指上下滑動調節音量</string>
+	<string name="hct_title_double_click_lock">雙擊鎖屏</string>
+	<string name="hct_title_double_click_lock_mark">在任意界面上快速雙擊HOME鍵鎖屏</string>
+	<!-- add for Gesture settings for doogee. hct.zhouzhigang 20150105 -end -->
+
+
+    <!-- HCT: chenyichong add for floatview -->
+    <string name="hct_floatview_title">懸浮手勢</string>
+    <string name="hct_floatview_open">懸浮開關</string>
+    <string name="hct_floatview_settings">手寫設定</string>
+    <!-- HCT: chenyichong add for floatview -->
+
+	<!-- added by zhaoxiaoxiang -->
+    <string name="hct_goto_home_after_lock_title">解鎖進入桌面</string>
+    <string name="hct_goto_home_after_lock_title_sunmry">解鎖之後，直接進入桌面</string>
+    <!-- end of added by zhaoxiaoxiang -->
+    
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- added by hct lijunyi, 2015-06-06, for HCT_SIM_SETTINGS -->
+    <string name="hct_sim_data_title">"Servicios de datos"</string>
+    <string name="hct_sim_data_content">"Conexión de datos móvil habilitado de forma predeterminada. Activación de la conexión de datos móviles puede incurrir en cargos adicionales del operador, si usted no tiene un plan de datos ilimitado."</string>
+    <string name="hct_sim_data_btn_disable">"Inhabilitar"</string>
+    <string name="hct_sim_data_btn_enable">"Permitir"</string>
+    <string name="hct_sim_apn_title">"Configuración de APN"</string>
+    <string name="hct_sim_apn_content">"Con el fin de garantizar la plena conectividad , por favor, seleccione los ajustes predeterminados de internet para su tarjeta SIM. Por favor, tenga en cuenta que se pueden aplicar cargos adicionales."</string>
+    <string name="hct_sim_apn_btn_change">"Cambiar"</string>
+    <string name="hct_sim_apn_btn_close">"Cerrar"</string>
+    <!-- end of added by hct lijunyi, 2015-06-06, for HCT_SIM_SETTINGS -->
+</resources>

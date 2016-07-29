@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright 2012, The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*     http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_dark"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/icon_lock_big" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/digital_psw"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/input_bg"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <EditText
+                android:id="@+id/visitor_lock_entry"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="6.0dip"
+                android:layout_marginRight="6.0dip"
+                android:layout_weight="1.0"
+                android:background="@drawable/input"
+                android:hint="@string/enter_psw_16"
+                android:maxLength="16"
+                android:paddingLeft="5.0dip"
+                android:password="true"
+                android:singleLine="true" />
+
+            <Button
+                android:id="@+id/button_sure"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center"
+                android:layout_marginRight="6.0dip"
+                android:background="@drawable/button_green"
+                android:gravity="center"
+                android:padding="13.0dip"
+                android:text="@android:string/ok"
+                android:textColor="#ffffffff"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/applock_keyboard_one"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <ImageButton
+                android:id="@+id/keyboard_one"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="@drawable/button_white"
+                android:src="@drawable/num1"
+                android:tag="@string/one" />
+
+            <ImageButton
+                android:id="@+id/keyboard_two"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="1.0dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_white"
+                android:src="@drawable/num2"
+                android:tag="@string/two" />
+
+            <ImageButton
+                android:id="@+id/keyboard_three"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="1.0dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_white"
+                android:src="@drawable/num3"
+                android:tag="@string/three" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/applock_keyboard_two"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:orientation="horizontal" >
+
+            <ImageButton
+                android:id="@+id/keyboard_four"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="@drawable/button_white"
+                android:src="@drawable/num4"
+                android:tag="@string/four" />
+
+            <ImageButton
+                android:id="@+id/keyboard_five"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="1.0dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_white"
+                android:src="@drawable/num5"
+                android:tag="@string/five" />
+
+            <ImageButton
+                android:id="@+id/keyboard_six"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="1.0dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_white"
+                android:src="@drawable/num6"
+                android:tag="@string/six" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/applock_keyboard_three"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:orientation="horizontal" >
+
+            <ImageButton
+                android:id="@+id/keyboard_seven"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="@drawable/button_white"
+                android:src="@drawable/num7"
+                android:tag="@string/seven" />
+
+            <ImageButton
+                android:id="@+id/keyboard_eight"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="1.0dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_white"
+                android:src="@drawable/num8"
+                android:tag="@string/eight" />
+
+            <ImageButton
+                android:id="@+id/keyboard_nine"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="1.0dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_white"
+                android:src="@drawable/num9"
+                android:tag="@string/nine" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/applock_keyboard_four"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/keyboard_clearall"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="@drawable/button_white"
+                android:text="@string/clear_all"
+                android:textColor="#FF606061"
+                android:textSize="20.0sp" />
+
+            <ImageButton
+                android:id="@+id/keyboard_zero"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="1.0dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_white"
+                android:src="@drawable/num0"
+                android:tag="@string/zero" />
+
+            <ImageButton
+                android:id="@+id/keyboard_del"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="1.0dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_white"
+                android:src="@drawable/button_delete" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

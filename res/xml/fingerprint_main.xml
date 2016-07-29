@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/fingerprint_settings_title" >
+
+    <PreferenceCategory
+        android:key="fingerprint_application"
+        android:title="@string/fingerprint_function_title" />
+
+    <com.android.settings.fingerprint.FingerprintSwitchPreference
+        android:key="fingerprint_unlock_keyguard"
+        android:layout="@layout/hct_preference_switch_item"
+        android:summary="@string/fingerprint_unlock_keyguard_summary"
+        android:title="@string/fingerprint_unlock_keyguard_title" />
+    <com.android.settings.fingerprint.FingerprintSwitchPreference
+        android:key="fingerprint_unlock_application"
+        android:layout="@layout/hct_preference_switch_item"
+        android:summary="@string/fingerprint_unlock_application_summary"
+        android:title="@string/fingerprint_unlock_application_title" />
+    <com.android.settings.fingerprint.FingerprintSwitchPreference
+        android:key="fingerprint_unlock_quickstart"
+        android:layout="@layout/hct_preference_switch_item"
+        android:summary="@string/fingerprint_unlock_quickstart_summary"
+        android:title="@string/fingerprint_unlock_quickstart_title" />
+    <com.android.settings.fingerprint.FingerprintSwitchPreference
+        android:key="fingerprint_dolf_unlock_quickstart"
+        android:layout="@layout/hct_preference_switch_item"
+        android:summary="@string/ftp_quick_start_summary"
+        android:title="@string/ftp_quick_start" />
+    <com.android.settings.fingerprint.FingerprintSwitchPreference
+        android:key="fingerprint_camera_takephoto"
+        android:layout="@layout/hct_preference_switch_item"
+        android:summary="@string/ftp_camera_takephoto_summary"
+        android:title="@string/ftp_camera_takephoto" />
+    <Preference
+        android:key="fingerprint_calibration"
+        android:title="@string/ftp_off_screen_calibration_string" 
+        android:summary="@string/ftp_off_screen_calibration_summary_string"/>
+    <Preference
+        android:key="fingerprint_more"
+        android:title="@string/ftp_string_more" />
+    <PreferenceCategory
+        android:key="fingerprint_list"
+        android:title="@string/fingerprint_list_title" />
+
+    <com.android.settings.fingerprint.FingerPrintPrefrnce
+        android:key="fingerprint_1"
+        android:title="@string/fingerprint_title_1" />
+    <com.android.settings.fingerprint.FingerPrintPrefrnce
+        android:key="fingerprint_2"
+        android:title="@string/fingerprint_title_2" />
+    <com.android.settings.fingerprint.FingerPrintPrefrnce
+        android:key="fingerprint_3"
+        android:title="@string/fingerprint_title_3" />
+    <com.android.settings.fingerprint.FingerPrintPrefrnce
+        android:key="fingerprint_4"
+        android:title="@string/fingerprint_title_4" />
+    <com.android.settings.fingerprint.FingerPrintPrefrnce
+        android:key="fingerprint_5"
+        android:title="@string/fingerprint_title_5" />
+    <Preference
+        android:key="fingerprint_new"
+        android:title="@string/fingerprint_title_new" />
+
+</PreferenceScreen>

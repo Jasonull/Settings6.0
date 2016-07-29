@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" 
+        android:title="@string/hct_visitor_mode_string" >
+        
+  
+        
+    <CheckBoxPreference
+        android:key="key_visitor_mode"
+        android:summary="@string/visitor_mode_description" />
+    
+</PreferenceScreen>

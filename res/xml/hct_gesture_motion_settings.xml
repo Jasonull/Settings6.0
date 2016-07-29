@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" 
+        android:title="@string/hct_title_telephony_motion" 
+        android:key="key_hct_telephony_motion">
+
+        <PreferenceScreen
+            android:key="hct_tele_motion"
+            android:title="@string/hct_title_telephony_motion"
+            android:fragment="com.android.settings.HctTelephonyMotion"
+            android:persistent="false"/>
+
+        <PreferenceScreen
+            android:key="hct_system_motion"
+            android:title="@string/hct_title_system_motion"
+            android:fragment="com.android.settings.HctSystemMotion"
+            android:persistent="false"/>
+
+</PreferenceScreen>

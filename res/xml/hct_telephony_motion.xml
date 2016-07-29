@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" 
+        android:title="@string/hct_title_system_motion" 
+        >
+    
+    <CheckBoxPreference
+        android:key="key_three_point_screenshot"
+        android:title="@string/hct_title_three_point_screenshot" 
+        android:summary="@string/hct_title_three_point_screenshot_mark"
+        android:persistent="false"
+        />
+
+    <CheckBoxPreference
+        android:key="key_hct_nubia_clip_screen"
+        android:title="@string/hct_title_clipscreen" 
+        android:summary="@string/hct_title_clipscreen_mark"
+        android:persistent="false"
+        />
+
+    <CheckBoxPreference
+        android:key="key_three_point_entrycamera"
+        android:title="@string/hct_title_three_point_entrycamera" 
+        android:summary="@string/hct_title_three_point_entrycamera_mark"
+        android:persistent="false"
+        />
+
+    <CheckBoxPreference
+        android:key="key_two_point_adjust_volume"
+        android:title="@string/hct_title_two_point_adjust_volume" 
+        android:summary="@string/hct_title_two_point_adjust_volume_mark"
+        android:persistent="false"
+        />
+	
+    <CheckBoxPreference
+        android:key="key_hct_double_tap_to_lock"
+        android:title="@string/hct_title_system_motion_mark" 
+        android:summary="@string/hct_title_system_motion_mark2"
+        android:persistent="false"
+        />
+
+</PreferenceScreen>

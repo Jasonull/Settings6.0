@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- added by hct lijunyi, 2015-06-06, for HCT_SIM_SETTINGS -->
+    <string name="hct_sim_data_title">"Data tjenester"</string>
+    <string name="hct_sim_data_content">"Mobildataforbindelse aktivert som standard. Muliggjør mobil datatilkobling kan medføre ekstra kostnader fra operatør, hvis du ikke har et ubegrenset dataabonnement."</string>
+    <string name="hct_sim_data_btn_disable">"Deaktiver"</string>
+    <string name="hct_sim_data_btn_enable">"Aktiver"</string>
+    <string name="hct_sim_apn_title">"APN konfigurasjon"</string>
+    <string name="hct_sim_apn_content">"For å sikre full tilkobling, velger du standardinnstillingene for internett for SIM-kortet. Vær oppmerksom på at ekstra datakostnader kan gjelde."</string>
+    <string name="hct_sim_apn_btn_change">"Endre"</string>
+    <string name="hct_sim_apn_btn_close">"Lukk"</string>
+    <!-- end of added by hct lijunyi, 2015-06-06, for HCT_SIM_SETTINGS -->
+</resources>

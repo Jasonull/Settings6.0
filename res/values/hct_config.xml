@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- <<hct:mingming.wu -->
+    <bool name="config_show_gesture_menu" translatable="false">false</bool>
+    <!-- hct:mingming.wu -->
+
+    <!-- add by luoxiaosong for remove lock after start -->
+    <bool name="hct_config_remove_lockafter">false</bool>
+    <!-- add by luoxiaosong for remove lock after end -->
+
+    <!-- add for ram auto answer warning(start) -->
+    <bool name="auto_answer_warning_enable">true</bool>
+    <!-- add for ram auto answer warning(end) -->
+    <bool name="config_hct_remove_threepointscreenshot">false</bool>
+    <bool name="config_hct_remove_clipscreen">false</bool>
+    <bool name="config_hct_remove_globalgestureprf">false</bool>
+    <bool name="config_hct_remove_threepointentrycamera">false</bool>
+    <bool name="config_hct_remove_doubleclick">false</bool>
+
+    <!-- liuyang add begin @20141008 -->
+    <bool name="hct_config_show_led_settings">false</bool>
+    <!-- liuyang add end @20141008 -->
+    <bool name="config_hct_remove_twopoint_volume">false</bool>
+<!-- add by hct-zhangcy for modify ram and rom-->
+	<!--modify for internal rom-->
+    <integer name="config_internal_storage">0</integer>
+    <integer name="config_internal_storage_point">1</integer>
+    <!-- this value is add in rellay value-->
+    <integer name="config_internal_storage_free">0</integer>
+    <integer name="config_internal_storage_free_point">1</integer>
+    
+	<!--modify for external rom-->
+    <integer name="config_external_storage">0</integer>
+    <integer name="config_external_storage_point">1</integer>
+    <!-- this value is add in rellay value-->
+    <integer name="config_external_storage_free">0</integer>
+    <integer name="config_external_storage_free_point">1</integer>
+
+    <integer name="default_customer_rom_values">0</integer>
+    <integer name="default_customer_rom_values_point">1</integer>
+    <integer name="default_customer_rom_free_values">0</integer>
+    <integer name="default_customer_rom_free_values_point">1</integer> 
+    <!-- add by hct-luoxiaosong for default lock after values--> 
+     <integer name="default_lock_after_values">5000</integer>
+    <!-- add by hct-luoxiaosong for default lock after values-->   
+ 
+
+<!-- this value must GB-->
+    <integer name="default_customer_ram_values">0</integer>
+    <integer name="default_customer_ram_values_point">1</integer>
+<!-- this value must MB-->
+    <integer name="default_customer_ram_values_addinfree">0</integer>
+    <integer name="default_customer_ram_values_addinfree_point">1</integer>
+    <bool name="config_sdcard_support_swap_hot">false</bool>
+    <bool name="hct_tp_gesture_change_down">false</bool>
+    <bool name="hct_tp_gesture_no_sensor">true</bool>
+    <!-- added by hct lijunyi, 2015-06-06, for HCT_SIM_SETTINGS -->
+    <bool name="hct_config_show_sim_setting">false</bool>
+    <!-- end of added by hct lijunyi, 2015-06-06, for HCT_SIM_SETTINGS -->
+
+    <bool name="config_show_hct_settings_desktop">false</bool>
+
+    <bool name="config_developer_options_switch">true</bool>
+    <bool name="config_developer_options_show">true</bool>
+    <!--HCT: remove wifi direct 20150611-->
+    <bool name="hct_remove_wifi_direct">false</bool>
+
+    <bool name="hct_is_show_slient">false</bool>
+    <bool name="hct_remove_encrypted">true</bool>
+    
+<!--add by hct-chenyichong for poweron if is 1 simcard we ignore the dialog-->
+     <bool name="config_support_poweron_onesim_ignore_dialog">true</bool>
+<!--add by hct-chenyichong for poweron if is 1 simcard we ignore the dialog-->
+
+    <bool name="remove_hct_storage_info">true</bool>
+    <bool name="config_show_hardware_info">false</bool>
+    <bool name="config_keyback_brightness_available">false</bool>
+    <!--HCT: zhangjun hct_development_only_display_three_item 20150618-->
+    <bool name="hct_development_only_display_three_item" translatable="false">false</bool>
+
+    <!-- liuyang add begin @20150629 -->
+    <bool name="hct_config_glove_mode">false</bool>
+    <!-- liuyang add end @20150629 -->
+    <!-- zhangwenqiang add begin @20150701 -->
+    <bool name="config_show_hct_privacy_unlock">false</bool>
+    <!-- zhangwenqiang add begin @20150701 -->
+    <bool name="config_show_hct_sim_name_limit">false</bool>
+    <!-- liuyang add  -->
+    <bool name="hct_config_remove_cdrom">false</bool>
+
+    <bool name="config_remove_hightext_menu">true</bool>
+<!--add by hct-zhangcy for hall switch-->
+     <bool name="config_support_hall_switch">false</bool>
+<!--add by hct-zhangcy for hall switch end-->
+    <bool name="config_remove_inversion_menu">true</bool>
+	<!-- jiashixian  add  00000006#  -->
+  <bool name="hct_config_show_visitor_mode_menu">false</bool>
+    <!-- yuanzhenlan add begin @20150729 -->
+    <bool name="config_hct_remove_mflitanswer">true</bool>
+    <bool name="config_hct_remove_answerswing">true</bool>
+   <!--liuwenbo add begin @20150731-->
+    <bool name="config_modify_about_settings">false</bool>
+    <bool name="config_remove_large_text_menu">false</bool>
+    <bool name="config_remove_speak_password_menu">false</bool>
+   <!--liuwenbo add end-->
+   <bool name="remove_autoanswer_preference">false</bool>
+    <!--xubinbin add -->
+   <bool name="remove_music_preference">false</bool>
+<!--add by hct-chenyichong for disabled accessibility service item. start -->
+     <bool name="config_hide_accessibility_service">false</bool>
+<!--add by hct-chenyichong for disabled accessibility service item. end. -->
+   <!--xubinbin add remove serial number-->
+     <bool name="config_remove_serial_number">false</bool>
+<bool name="config_hct_remove_floatview">false</bool>
+
+<!--Privacy protection  hct maocng -->
+  <bool name="config_show_applock_menu" translatable="false">false</bool>
+<bool name="config_remove_launcher_gesture">false</bool>
+    <!-- zhangjunjun add begin @20150915 -->
+    <bool name="hct_config_show_globalGesturePreference">true</bool>
+    <bool name="hct_config_show_LargeTextPreference">true</bool>
+    <!-- zhangjunjun add end @20150915 -->
+    <bool name="config_modify_about_manufacturers">true</bool>
+    <!-- hct macong modify battery view error2015.10.6-->
+  <bool name="hct_config_show_batteryleavel_inbattery">false</bool>
+<!--HCT: xuejin fingerprint max finger -->
+<integer name="default_max_fingerprint">5</integer>
+<!--HCT: xuejin fingerprint max finger -->
+
+    <!--HCT: xubinbin disable oem unlock 20151013 -->
+    <bool name="hct_disable_oem_unlock">false</bool>
+    <!--HCT: xubinbin serial display imei1 20151013 -->
+    <bool name="hct_serial_display_imei">false</bool>
+
+    <!--HCT: yuanzhenlan USB storage delate 20151028 -->
+    <bool name="hct_config_show_usb_ums">true</bool>
+
+    <!--HCT: caoweishuang delete system update 20151109 -->
+    <bool name="config_delete_system_update">false</bool>
+
+    <!--HCT: caoweishuang add woo system update 20151112 -->
+    <bool name="config_woo_ota_system_update">false</bool>
+    <bool name="hct_config_show_system">false</bool>
+    <bool name="config_delete_security_patch">false</bool>
+<!--hct luoxiaosong for setting storage-->
+    <bool name="hct_config_show_system_memery">false</bool>
+<!--Pocked Mode -->
+  <bool name="config_pocket_mode_enable">false</bool>
+
+<!--add by hct-chenyichong for easytouch floatview. start -->
+     <bool name="config_easy_touch_float_view">false</bool>
+<!--add by hct-chenyichong for easytouch floatview. start -->
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/ftp_string_more" >
+
+    <PreferenceCategory
+        android:key="fingerprint_application"
+        android:title="@string/fingerprint_function_title" />
+    <com.android.settings.fingerprint.FingerprintSwitchPreference
+        android:key="fingerprint_unlock_home"
+        android:layout="@layout/hct_preference_switch_item"
+        android:summary="@string/ftp_browser_home_summary"
+        android:title="@string/ftp_browser_home" />
+    <com.android.settings.fingerprint.FingerprintSwitchPreference
+        android:key="fingerprint_unlock_camera"
+        android:layout="@layout/hct_preference_switch_item"
+        android:summary="@string/ftp_camera_takephoto_summary"
+        android:title="@string/ftp_camera_takephoto" />
+    <com.android.settings.fingerprint.FingerprintSwitchPreference
+        android:key="fingerprint_unlock_call"
+        android:layout="@layout/hct_preference_switch_item"
+        android:summary="@string/ftp_answer_call_summary"
+        android:title="@string/ftp_answer_call" />
+    <com.android.settings.fingerprint.FingerprintSwitchPreference
+        android:key="fingerprint_unlock_image"
+        android:layout="@layout/hct_preference_switch_item"
+        android:summary="@string/ftp_browser_image_summary"
+        android:title="@string/ftp_browser_image" />
+    <com.android.settings.fingerprint.FingerprintSwitchPreference
+        android:key="fingerprint_unlock_music"
+        android:layout="@layout/hct_preference_switch_item"
+        android:summary="@string/ftp_play_music_summary"
+        android:title="@string/ftp_play_music" />
+    <com.android.settings.fingerprint.FingerprintSwitchPreference
+        android:key="fingerprint_unlock_video"
+        android:layout="@layout/hct_preference_switch_item"
+        android:summary="@string/ftp_play_video_summary"
+        android:title="@string/ftp_play_video" />
+</PreferenceScreen>

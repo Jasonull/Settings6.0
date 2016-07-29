@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/fingerprint_choose_lock_title" >
+
+    <PreferenceCategory
+        android:key="fingerprint_choose_lock"
+        android:title="@string/fingerprint_choose_lock_title" />
+
+    <Preference
+        android:key="fingerprint_pattern"
+        android:title="@string/unlock_set_unlock_pattern_title" />
+    <Preference
+        android:key="fingerprint_pin"
+        android:title="@string/unlock_set_unlock_pin_title" />
+
+</PreferenceScreen>

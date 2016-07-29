@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- added by hct lijunyi, 2015-06-06, for HCT_SIM_SETTINGS -->
+    <string name="hct_sim_data_title">"Servizi di dati"</string>
+    <string name="hct_sim_data_content">"Connessione dati mobile abilitato per impostazione predefinita. Abilitazione connessione dati mobile può comportare dei costi aggiuntivi da operatore, se non si dispone di un piano dati illimitato."</string>
+    <string name="hct_sim_data_btn_disable">"Disabilitare"</string>
+    <string name="hct_sim_data_btn_enable">"Attiva"</string>
+    <string name="hct_sim_apn_title">"Configurazione APN"</string>
+    <string name="hct_sim_apn_content">"Per garantire una connessione completa ,  selezionare il profilo internet  di default della propria SIM. Si noti, che costi aggiuntivi potrebbero essere applicati."</string>
+    <string name="hct_sim_apn_btn_change">"Modificare"</string>
+    <string name="hct_sim_apn_btn_close">"Chiudere"</string>
+    <!-- end of added by hct lijunyi, 2015-06-06, for HCT_SIM_SETTINGS -->
+  <!-- add  by hct-luoxiaosong for tp gesture -->
+   <string name="fingerprint_settings_title">Impronta digitale</string>
+   <string name="gesture_unlock">Display intelligente</string>
+    <string name="gesture_double">Doppio tocco per accendere il display</string>
+    <string name="gesture_up">Trascina verso l\'alto per sbloccare</string>
+    <string name="gesture_down">Trascina verso il basso per attivare la fotocamera</string>
+    <string name="gesture_left_right">Trascina sullo schermo per cambiare musica</string>
+   
+    <string name="gesture_m">Scrivi m e metti in pausa la musica</string>
+   
+
+    <string name="hct_gesture_c_title">Scrivi c</string>
+ 
+    
+    <string name="hct_gesture_e_title">Scrivi e</string>
+ 
+    <string name="hct_gesture_o_title">Scrivi o</string>
+    
+    <string name="hct_gesture_w_title">Scrivi w</string>
+
+    <string name="hct_gesture_z_title">Scrivi z</string>
+    <string name="hct_gesture_action">Attiva</string>
+
+<string name="fingerprint_unlock_keyguard_title">Impronta digitale usata</string>
+<string name="fingerprint_unlock_keyguard_summary">Sblocco schermo Consentire lo sblocco dello schermo usando l\'impronta digitale</string>
+<string name="fingerprint_unlock_application_title">Blocco dell\'applicazione</string>
+    <string name="fingerprint_unlock_application_summary">Necessario riavviare l\'applicazione per inserire il blocco dell\'impronta digitale</string>
+  
+<string name="fingerprint_list_title">Lista impronte digitali </string>
+    <string name="fingerprint_title_1">Impronta digitale 1</string>
+    <string name="fingerprint_title_2">Impronta digitale 2</string>
+    <string name="fingerprint_title_3">Impronta digitale 3</string>
+    <string name="fingerprint_title_4">Impronta digitale 4</string>
+    <string name="fingerprint_title_5">Impronta digitale 5</string>
+    <string name="fingerprint_title_new">Nuova impronta digitale</string>
+
+<string name="fingerprint_keyguard_method">Modalità schermata di blocco</string>
+<string name="fingerprint_keyguard_content">Per cambiare la modalità della schermata di blocco
+chiudere la funzione di blocco con l\'impronta digitale continuare?</string>
+
+<string name="fingerprint_detail_title">Dettagli impronta digitale</string>
+<string name="fingerprint_string_delete">Cancella</string>
+<string name="fingerprint_string_rename">Rinonima</string>
+<string name="fingerprint_string_title">Registrazione impronta digitale</string>
+<string name="fingerprint_string_prompt">Appoggiare il vostro dito sul sensore delle impronte digitali, quando si sente 
+una leggera vibrazione, sollevare e appoggiare di nuovo il dito </string>
+<string name="fingerprint_string_title_2">Registrazione impronta digitale</string>
+<string name="fingerprint_string_tip1">Sollevare e appoggiare il dito sul sensore dell\'impronta digitale
+ogni volta che senti una leggera vibrazione</string>
+ <string name="fingerprint_string_prompt_3">registrazione in corso </string>
+<string name="fingerprint_enrolled_title">Registrazione avvenuta</string>
+<string name="ftp_quick_start_setting">Avvio rapido</string>
+<string name="fingerprint_unlock_quickstart_title">Avvio rapido</string>
+<string name="fingerprint_unlock_quickstart_summary">Usare l\'impronta digitale per aprire le applicazioni quando è inserito il blocco schermo</string>
+<string name="ftp_string_more">Altre funzioni</string>
+
+ <string name="accessibility_somatosensory_preference_title">Air gesture</string>
+
+ <string name="accessibility_toggle_gallery_preference_title">Galleria</string>
+    <string name="accessibility_toggle_gallery_preference_summary">Passa la mano sul sensore per cambiare foto</string>
+    <string name="accessibility_toggle_music_preference_title">Lettore musicale</string>
+    <string name="accessibility_toggle_music_preference_summary">Passa la mano sul sensore per cambiare brano</string>
+    <string name="accessibility_toggle_camera_preference_title">Fotocamera</string>
+    <string name="accessibility_toggle_camera_preference_summary">Passa la mano sul sensore per scattare foto</string>
+    <string name="accessibility_toggle_launcher_preference_title">Desktop</string>
+    <string name="accessibility_toggle_launcher_preference_summary">Passa la mano sul sensore per cambiare pagina</string>
+    <string name="accessibility_toggle_lockscreen_preference_title">Sbloccare</string>
+    <string name="accessibility_toggle_lockscreen_preference_summary">Quando il telefono è bloccato, nella schermata del blocco schermo
+passa la mano sul sensore e il telefono si sbloccherà automaticamente</string>
+
+    <string name="accessibility_toggle_mmsdial_preference_title">Chiamata rapida da SMS</string>
+    <string name="accessibility_toggle_mmsdial_preference_summary">Chiama sms selezionato avvicinando il telefono all\'orecchio</string>
+    <string name="accessibility_toggle_contactdial_preference_title">Chiamata rapida con gesture </string>
+    <string name="accessibility_toggle_contactdial_preference_summary">Chiama il contatto selezionato avvicinando il telefono all\'orecchio</string>
+    <string name="accessibility_toggle_autoanswer_preference_title">Risposta automatica in auto</string>
+    <string name="accessibility_toggle_autoanswer_preference_summary">Rispondi in automatico avvicinando il telefono all\'orecchio</string>
+
+  <string name="open_auto_answer_warning">Non è consigliabile usare questa funzione con la custodia chiusa</string>
+
+   <string name="hardware_info">Informazioni Hardware</string>
+  <string name="cpu_model">Modello Processore</string>
+  <string name="cpu_core">Processore CPU</string>
+  <string name="cpu_frequency">Frequenza CPU</string>
+  <string name="screen_resolution">Risoluzione LCD</string>
+    <string name="screen_resolution_info">HD 1280x720</string>
+    <string name="screen_size">LCD</string>
+   <string name="screen_size_info">5.2 Inch</string>
+
+<string name="hct_goto_home_after_lock_title">Schermata Home dopo lo sblocco</string>
+<string name="hct_goto_home_after_lock_title_sunmry">Va sulla schermata Home dopo lo sblocco</string>
+<!-- add by hct-luoxiaosong for tp getsture end -->
+</resources>

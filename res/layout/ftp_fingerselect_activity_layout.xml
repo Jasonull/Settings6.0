@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        style="@android:style/TextAppearance.DeviceDefault.Medium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:layout_weight="1"
+        android:text="@string/ftp_quick_start_setting_camera_select_finger_title" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" >
+
+        <ImageView
+            android:id="@+id/ftp_hand_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ftp_hand_left" />
+
+        <ImageView
+            android:id="@+id/ftp_hand_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ftp_hand_right" />
+
+        <!-- left hand finger -->
+
+        <ImageView
+            android:id="@+id/ftp_left_little"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="55dp"
+            android:src="@drawable/ftp_circle_normal" />
+
+        <ImageView
+            android:id="@+id/ftp_left_ring"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="45dp"
+            android:layout_marginTop="23dp"
+            android:src="@drawable/ftp_circle_normal" />
+
+        <ImageView
+            android:id="@+id/ftp_left_middle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="78dp"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/ftp_circle_normal" />
+
+        <ImageView
+            android:id="@+id/ftp_left_fore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="116dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ftp_circle_normal" />
+
+        <ImageView
+            android:id="@+id/ftp_left_thumb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="68dp"
+            android:src="@drawable/ftp_circle_normal" />
+
+        <!-- right hand finger -->
+
+        <ImageView
+            android:id="@+id/ftp_right_little"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginRight="25dp"
+            android:layout_marginTop="55dp"
+            android:src="@drawable/ftp_circle_normal" />
+
+        <ImageView
+            android:id="@+id/ftp_right_ring"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginRight="45dp"
+            android:layout_marginTop="23dp"
+            android:src="@drawable/ftp_circle_normal" />
+
+        <ImageView
+            android:id="@+id/ftp_right_middle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginRight="78dp"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/ftp_circle_normal" />
+
+        <ImageView
+            android:id="@+id/ftp_right_fore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginRight="116dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ftp_circle_normal" />
+
+        <ImageView
+            android:id="@+id/ftp_right_thumb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginRight="150dp"
+            android:layout_marginTop="68dp"
+            android:src="@drawable/ftp_circle_normal" />
+    </FrameLayout>
+
+    <TextView
+        style="@android:style/TextAppearance.DeviceDefault.Medium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="@string/ftp_quick_start_setting_camera_select_finger_summary" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom" >
+
+        <Button
+            android:id="@+id/ftp_hand_cancle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@android:string/cancel"
+            android:textColor="#FF000000"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/ftp_hand_continue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/applock_lockapp_continue"
+            android:textColor="#FF000000"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+</LinearLayout>

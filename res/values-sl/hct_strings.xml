@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- added by hct lijunyi, 2015-06-06, for HCT_SIM_SETTINGS -->
+    <string name="hct_sim_data_title">"Podatkovne storitve"</string>
+    <string name="hct_sim_data_content">"Privzeta mobilna podatkovna povezava je omogočena. Omogočanje mobilne podatkovne povezave lahko povzroči dodatno zaračunavanje prenosa podatkov, v kolikor nimate zakupljene zadostne ali neomejene količine prenosa podatkov pri vašem operaterju."</string>
+    <string name="hct_sim_data_btn_disable">"Onemogoči"</string>
+    <string name="hct_sim_data_btn_enable">"Omogoči"</string>
+    <string name="hct_sim_apn_title">"APN konfiguracija"</string>
+    <string name="hct_sim_apn_content">"Da bi zagotovili popolno povezljivost, izberite privzete internetne nastavitve za SIM kartico. Prosimo, upoštevajte, da se lahko zaračunajo dodatni stroški za prenos podatkov."</string>
+    <string name="hct_sim_apn_btn_change">"Zamenjaj"</string>
+    <string name="hct_sim_apn_btn_close">"Zapri"</string>
+    <!-- end of added by hct lijunyi, 2015-06-06, for HCT_SIM_SETTINGS -->
+</resources>

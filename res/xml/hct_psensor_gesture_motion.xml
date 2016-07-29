@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" 
+        android:title="@string/hct_psensor_gesture_title" >
+        
+  
+        
+    <CheckBoxPreference
+        android:key="key_psensor_gesture_gallery"
+        android:summary="@string/hct_psensor_gesture_gallery_summary"
+        android:title="@string/hct_psensor_gesture_gallery_title" />
+    
+      <CheckBoxPreference
+        android:key="key_psensor_gesture_launcher"
+        android:summary="@string/hct_psensor_gesture_launcher_summary"
+        android:title="@string/hct_psensor_gesture_launcher_title" />
+        
+    <CheckBoxPreference
+        android:key="key_psensor_gesture_fmradio"
+        android:summary="@string/hct_psensor_gesture_fmradio_summary"
+        android:title="@string/hct_psensor_gesture_fmradio_title" />
+        
+<!--
+    <CheckBoxPreference
+        android:key="key_psensor_gesture_autoanswer"
+        android:summary="@string/hct_psensor_gesture_autoanswer_summary"
+        android:title="@string/hct_psensor_gesture_autoanswer_title" />       
+-->
+
+     <CheckBoxPreference
+        android:key="key_psensor_gesture_music"
+        android:summary="@string/hct_psensor_gesture_music_summary"
+        android:title="@string/hct_psensor_gesture_music_title" />                
+      <!-- add by macong face detected-->
+       <PreferenceCategory
+            android:key="smartmode_category"
+            android:title="@string/accessibility_smartmode_preference_title"
+            android:persistent="false">
+         
+                <CheckBoxPreference
+                        android:key="toggle_smartread_preference"
+                          android:title="@string/accessibility_toggle_smartread_preference_title"
+                       android:summary="@string/accessibility_toggle_smartread_preference_summary"
+                          android:persistent="false"/>
+                           
+     </PreferenceCategory>
+      <!-- end by macong face detected-->
+</PreferenceScreen>

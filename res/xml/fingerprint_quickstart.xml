@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/fingerprint_settings_title" >
+
+    <PreferenceCategory
+        android:key="fingerprint_list"
+        android:title="@string/fingerprint_list_title" />
+
+    <com.android.settings.fingerprint.FingerPrintPrefrnce
+        android:key="fingerprint_1"
+        android:title="@string/fingerprint_title_1" />
+    <com.android.settings.fingerprint.FingerPrintPrefrnce
+        android:key="fingerprint_2"
+        android:title="@string/fingerprint_title_2" />
+    <com.android.settings.fingerprint.FingerPrintPrefrnce
+        android:key="fingerprint_3"
+        android:title="@string/fingerprint_title_3" />
+    <com.android.settings.fingerprint.FingerPrintPrefrnce
+        android:key="fingerprint_4"
+        android:title="@string/fingerprint_title_4" />
+    <com.android.settings.fingerprint.FingerPrintPrefrnce
+        android:key="fingerprint_5"
+        android:title="@string/fingerprint_title_5" />
+
+</PreferenceScreen>

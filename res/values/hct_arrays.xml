@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    
+    <!-- HCT: xuejin fingerprint start -->
+    <string-array name="not_need_protect" translatable="false">
+        <item>com.mediatek.StkSelection</item>
+        <item>com.rongcai.showcustom</item>
+        <item>com.android.settings</item>
+        <item>com.example.gestureme</item>
+        <item>com.example.tpgesture</item>
+        <item>com.example.Hoknot</item>
+        <item>cn.sh.hct.hcttorch</item>
+    </string-array>
+    
+    <string-array name="not_need_protect_classname" translatable="false">
+        <item>com.android.incallui.InCallActivity</item>
+        <item>com.android.deskclock.alarms.AlarmActivity</item>
+        <item>com.rongcai.showcustom.LaunchActivity</item>
+        <item>com.android.settings.fingerprint.AppLockUnLockActivity</item>
+    </string-array>
+
+      <string-array name="finger_total_name">
+        <item>Left little finger</item>
+        <item>Left ring finger</item>
+        <item>Left middle finger</item>
+        <item>Left index finger</item>
+        <item>Left thumb</item>
+        <item>Right thumb</item>
+        <item>Right index finger</item>
+        <item>Right middle finger</item>
+        <item>Right ring finger</item>
+        <item>Right little finger</item>
+      </string-array>
+
+    <string-array name="not_need_quick_start" translatable="false">
+        <item>com.tencent.mm</item>
+        <item>com.ila.launcher</item>
+    </string-array>
+    <!-- HCT: xuejin fingerprint end -->
+       <!-- HCT: lvcheng add  begin -->
+      <string-array name="color_entries">
+            <item>green</item>
+            <item>blue</item>
+            <item>red</item>
+        </string-array>
+        <string-array name="color_values">
+            <item>green</item>
+            <item>blue</item>
+            <item>red</item>
+        </string-array>  
+       <!-- HCT: lvcheng add  end --> 
+</resources>

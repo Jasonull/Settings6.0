@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" 
+        android:title="@string/led_settings" >
+        
+    <CheckBoxPreference
+        android:key="led_charge"
+        android:summary="@string/led_settings_charge_summary"
+        android:title="@string/led_settings_charge" />
+
+    <CheckBoxPreference
+        android:key="led_low_battery"
+        android:summary="@string/led_settings_low_battery_summary"
+        android:title="@string/led_settings_low_battery" />
+        
+   <CheckBoxPreference
+        android:key="led_notify"
+        android:summary="@string/led_settings_notify_summary"
+        android:title="@string/led_settings_notify" />
+        
+</PreferenceScreen>

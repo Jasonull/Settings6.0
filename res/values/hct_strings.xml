@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="hct_select_app">Please select application</string>
+    <!-- <<hct:mingming.wu -->
+    <string name="accessibility_gesture_preference_title">Gesture</string>
+    <string name="accessibility_somatosensory_preference_title">Smart somatosensory</string>
+
+    <string name="accessibility_toggle_gallery_preference_title">Gallery</string>
+    <string name="accessibility_toggle_gallery_preference_summary">move between pictures</string>
+    <string name="accessibility_toggle_music_preference_title">Music Player</string>
+    <string name="accessibility_toggle_music_preference_summary">move between songs</string>
+    <string name="accessibility_toggle_camera_preference_title">Camera</string>
+    <string name="accessibility_toggle_camera_preference_summary">capture photos</string>
+    <string name="accessibility_toggle_launcher_preference_title">Launcher</string>
+    <string name="accessibility_toggle_launcher_preference_summary">move to next page in launcher</string>
+    <string name="accessibility_toggle_lockscreen_preference_title">Unlock</string>
+    <string name="accessibility_toggle_lockscreen_preference_summary">In the locked screen, the phone will hand waving distance sensor location, the phone will automatically unlock standby interface</string>
+
+    <string name="accessibility_toggle_mmsdial_preference_title">SMS somatosensory dial</string>
+    <string name="accessibility_toggle_mmsdial_preference_summary">In MMS View, pick up the phone to your face can directly dial the contact\'s phone</string>
+    <string name="accessibility_toggle_contactdial_preference_title">Contact dialing by somatosensory </string>
+    <string name="accessibility_toggle_contactdial_preference_summary">In contacts interface,  keep face close to device make dial automatically</string>
+    <string name="accessibility_toggle_autoanswer_preference_title">Call Answering Car</string>
+    <string name="accessibility_toggle_autoanswer_preference_summary">Call, the palm of the phone distance sensor position for two seconds, the phone automatically answer the call</string>
+    <!-- hct:mingming.wu -->
+
+    <!-- add for ram auto answer warning(start) -->
+    <string name="open_auto_answer_warning">Close the holster is not recommended to use this feature</string>
+    <!-- add for ram auto answer warning(end) -->
+    <string name="gesture_unlock">Gesture Unlock</string>
+    <string name="gesture_double">Double-click to wake</string>
+    <string name="gesture_up">Slide up to unlock</string>
+    <string name="gesture_down">Slide down to camera</string>
+    <string name="gesture_left_right">Sideslip cut songs</string>
+    <string name="gesture_c">Painting c wake dial</string>
+    <string name="gesture_m">Painting m play and pause music</string>
+    <string name="gesture_e">Painting e wake browser</string>
+    <string name="gesture_o">Painting o wake QQ</string>
+    <string name="gesture_w">Painting w wake wechat</string>
+    <string name="gesture_z">Painting z wake Voice Assistant</string>
+
+    <string name="hct_gesture_c_title">Gesture c</string>
+    <string name="hct_gesture_c_summary">Dialer</string>
+    <string name="hct_gesture_m_title">Gesture m</string>
+    <string name="hct_gesture_m_summary">Music</string>
+    <string name="hct_gesture_e_title">Gesture e</string>
+    <string name="hct_gesture_e_summary">Browser</string>
+    <string name="hct_gesture_o_title">Gesture o</string>
+    <string name="hct_gesture_o_summary">QQ</string>
+    <string name="hct_gesture_w_title">Gesture w</string>
+    <string name="hct_gesture_w_summary">Wechat</string>
+    <string name="hct_gesture_z_title">Gesture z</string>
+    <string name="hct_gesture_z_summary">Default</string>
+    <string name="hct_gesture_s_title">Gesture s</string>
+    <string name="hct_gesture_s_summary">Mms</string>
+    <string name="hct_gesture_v_title">Gesture v</string>
+    <string name="hct_gesture_v_summary">Mms</string>
+    <string name="hct_gesture_down_title">Gesture down</string>
+    <string name="hct_gesture_down_summary">Camera</string>
+    <string name="hct_gesture_summary">Default</string>
+    <string name="hct_gesture_action">Start</string>
+    <string name="hct_gesture_choose_app">Choose app</string>
+    <!-- add for Gesture settings for doogee . hct.zhouzhigang 20150105 -->
+    <string name="hct_title_system_gesture">System Gesture</string>
+    <string name="hct_title_three_point_screenshot">Three point screenshot</string>
+    <string name="hct_title_three_point_screenshot_mark">Three fingers at the same time the lower sliding screenshot</string>
+    <string name="hct_title_clipscreen">Clip screen</string>
+    <string name="hct_title_clipscreen_mark">Long press menu key to start clip screen mode</string>
+    <string name="hct_title_three_point_entrycamera">Three point entry camera</string>
+    <string name="hct_title_three_point_entrycamera_mark">Three fingers at the same time the up sliding entry camera</string>
+    <string name="hct_title_two_point_adjust_volume">Two point adjust volume</string>
+    <string name="hct_title_two_point_adjust_volume_mark">Two fingers at the same time the lower or upper sliding adjust volume</string>
+    <string name="hct_title_double_click_lock">Double tap to lock screen</string>
+    <string name="hct_title_double_click_lock_mark">Double tap the home key at any interface to lock the screen</string>
+    <!-- add for Gesture settings for doogee. hct.zhouzhigang 20150105 -end -->
+
+    <!-- add for Gesture settings . hct.zhouzhigang 20141024 -->
+    <string name="hct_title_gesture_motion">Gesture motion</string>
+    <string name="hct_title_telephony_motion">Telephony Motion</string>
+    <string name="hct_title_telephony_motion_mark">Flip to mute,Answer by swing</string>
+    <string name="hct_title_system_motion">System Motion</string>
+<!--add by hct-zhangcy-->
+    <string name="hall_switch_title">Hall</string>
+    <string name="hall_switch_summary">Closing lid display clocks, etc.</string>
+    <!--add by hct-zhangcy end-->
+
+    <!-- HCT: chenyichong add for floatview -->
+    <string name="hct_floatview_title">Float gesture</string>
+    <string name="hct_floatview_open">On</string>
+    <string name="hct_floatview_settings">Hand writer settings</string>
+    <!-- HCT: chenyichong add for floatview -->
+
+    <string name="hct_title_system_motion_mark">Double tap to lock</string>
+    <string name="hct_title_turn_silence">Turn to silence</string>
+    <string name="hct_title_turn_silence_mark">Silent the call by turn the phone</string>
+    <string name="hct_title_smart_answer">Smart answer</string>
+    <string name="hct_title_smart_answer_mark">Put phone close to ear to answer</string>
+    <string name="hct_title_answer_by_swing">Answer by swing</string>
+    <string name="hct_title_answer_by_swing_mark">Answer the call by swing when incoming call</string>
+    <string name="hct_title_smart_switch">Smart switch</string>
+    <string name="hct_title_smart_switch_mark">Put phone close to ear to turn off the speaker</string>
+    <string name="hct_title_system_motion">System Motion</string>
+    <string name="hct_title_system_motion_mark">Double tap to lock</string>
+    <string name="hct_title_system_motion_mark2">Double tap the home key at any interface to lock the screen</string>
+    <!-- add for Gesture settings . hct.zhouzhigang 20141024 -end -->
+
+    <!-- liuyang add begin @20141008 -->
+    <string name="led_settings">Led</string>
+    <string name="led_settings_charge">Charge</string>
+    <string name="led_settings_charge_summary">Red led on when charging,green led on when charging</string>
+    <string name="led_settings_low_battery">Battery low</string>
+    <string name="led_settings_low_battery_summary">Red led Falshing when battery low</string>
+    <string name="led_settings_notify">Event miss</string>
+    <string name="led_settings_notify_summary">Blue led Falshing on when have missed call or unread message</string>
+    <string name="led_settings_app">Application message</string>
+    <string name="led_settings_app_summary">Breath light on when have application message</string>
+    <string name="led_settings_auto_brightness">Auto adjust the brightness of breath lamp</string>
+    <!-- liuyang add end @20141008 -->
+    <!-- Egistec fingerprint string -->
+    <string name="fingerprint_settings_title">Fingerprint</string>
+    <string name="fingerprint_function_title">Fingerprint used</string>
+    <string name="fingerprint_unlock_keyguard_title">Unlock screen</string>
+    <string name="fingerprint_unlock_keyguard_summary">Allow the lock screen interface using fingerprint unlocked</string>
+    <string name="fingerprint_unlock_application_title">Application lock</string>
+    <string name="fingerprint_unlock_application_summary">Need to restart the application to bind the fingerprint lock</string>
+    <string name="fingerprint_unlock_quickstart_title">Quick start</string>
+    <string name="fingerprint_unlock_quickstart_summary">Need to bind the fingerprint to start the application under the lock screen state</string>
+    <string name="fingerprint_list_title">Fingerprint list </string>
+    <string name="fingerprint_title_1">Fingerprint 1</string>
+    <string name="fingerprint_title_2">Fingerprint 2</string>
+    <string name="fingerprint_title_3">Fingerprint 3</string>
+    <string name="fingerprint_title_4">Fingerprint 4</string>
+    <string name="fingerprint_title_5">Fingerprint 5</string>
+    <string name="fingerprint_title_new">New fingerprint</string>
+    <string name="fingerprint_enrolled_title">Successfully enrolled</string>
+    <string name="fingerprint_enrolled_fail_title">Enroll failed</string>
+    <string name="fingerprint_string_title">Enroll fingerprint</string>
+    <string name="fingerprint_string_prompt">Please place your finger on the fingerprint sensor, Once you feel a slight vibration, lift and press your finger against the sensor again</string>
+    <string name="fingerprint_string_title_2">Please input fingerprint</string>
+    <string name="fingerprint_string_prompt_2">Feel the vibration, please repeat pressing fingerprint recognizer to input fingerprint, Do not move the finger entry process</string>
+    <string name="fingerprint_string_prompt_3">Current progress </string>
+    <string name="fingerprint_string_tip">Follow the onscreen instructions, and lift and press your finger against the sensor every time you feel a vibration</string>
+    <string name="fingerprint_string_tip1">Please move finger and lift and press your finger against the sensor every time you feel a vibration</string>
+    <string name="fingerprint_string_delete">Delete</string>
+    <string name="fingerprint_string_ok">OK</string>
+    <string name="fingerprint_string_cancel">Cancel</string>
+    <string name="fingerprint_string_rename">Rename</string>
+    <string name="fingerprint_detail_title">Fingerprint details</string>
+    <string name="fingerprint_keyguard_method">Lock screen mode</string>
+    <string name="fingerprint_keyguard_content">Way to change the lock screen will close the fingerprint unlock function, whether to continue?</string>
+    <string name="fingerprint_choose_lock_title">Choose the way to lock screen</string>
+    <string name="fingerprint_start_enroll_now">Enroll</string>
+    <string name="fingerprint_start_enroll_then">Later</string>
+    <string name="fingerprint_bind_start_enroll_keyguard">No fingerprints enrolled. You must enroll a fingerprint before you can associate it with quick unlock. Enroll one now?</string>
+    <string name="fingerprint_bind_start_enroll_applock">No fingerprints enrolled. You must enroll a fingerprint before you can associate it with app lock. Enroll one now?</string>
+    <string name="fingerprint_bind_start_enroll_quickstart">No fingerprints enrolled. You must enroll a fingerprint before you can associate it with quick start. Enroll one now?</string>
+    <string name="applock_app_name">AppLock</string>
+    <string name="applock_enter_psw_16">"enter password or fingerprint"</string>
+    <string name="applock_clear_all">Clear</string>
+    <string name="applock_header_back">Back</string>
+    <string name="applock_zero">0</string>
+    <string name="applock_one">1</string>
+    <string name="applock_two">2</string>
+    <string name="applock_three">3</string>
+    <string name="applock_four">4</string>
+    <string name="applock_five">5</string>
+    <string name="applock_six">6</string>
+    <string name="applock_seven">7</string>
+    <string name="applock_eight">8</string>
+    <string name="applock_nine">9</string>
+    <string name="applock_lockapp_psw_wrong">"Wrong password"</string>
+    <string name="applock_lockapp_psw_not_match">"Passwords do not match!"</string>
+    <string name="applock_lockapp_psw_confirm">"Confirm your password"</string>
+    <string name="applock_lockapp_continue">"continue"</string>
+    <string name="fingerprint_error">Fingerprint verification failed, Please try again.</string>
+    <string name="fingerprint_error_too_many">Fingerprint failed too many times!</string>
+    <string name="fingerprint_summary">Choose binding application</string>
+    <string name="fingerprint_quickstart_summary">This finger bind: </string>
+    <string name="ftp_enroll_back">Returns reselect</string>
+    <!-- Egistec fingerprint string -->
+    <!--Privacy protection  hct maocng -->
+      <string name="applock_settings_title">Privacy Protection</string>
+    <!--add by hct-zhangcy for fastcamera 2015.9.9-->
+    <string name="hct_fastcamera_title">Quick Camera</string>
+    <string name="hct_fastcamera_summary">off-screen, press the power key quick pictures</string>
+    <string name="hct_fastcamera_open">Quick Camera OnOff</string>
+<!--add by hct-zhangcy for fastcamera end-->
+    <!-- add for egistec ftp -->
+    <string name="ftp_please_wait">Fingerprint device is initializing, please wait!</string>
+    <string name="ftp_please_wait_ext">Fingerprint device is initialized, then do not touch the fingerprint device and exit this interface!</string>
+    <string name="ftp_init_success">Fingerprint device is initializing successed!</string>
+    <string name="ftp_init_fail">Fingerprint device is initializing failed,Please exit this screen and then enter the retry!</string>
+    <string name="ftp_init_fail_ext">Fingerprint Device Initialization Failed, click the Calibrate button to recalibrate!</string>
+    <string name="ftp_off_screen_calibration_string">Unlock black calibration</string>
+    <string name="ftp_off_screen_calibration_summary_string">Unlock black fingerprint data required calibration</string>
+    <string name="ftp_off_screen_calibration_note">When black is not very sensitive to unlock, or initial initialization problems, you can click the button below to re-initialize. During initialization, or else do not hand touch fingerprint device, otherwise it will lead to the subsequent use of the fingerprint failed to initialize or appear insensitive</string>
+    <string name="ftp_is_repeat">This fingerprint already exists, please try another finger input!</string>
+    <string name="ftp_quick_start">Fingerprint quick start</string>
+    <string name="ftp_quick_start_summary">Allow except unlock the screen with your finger to start the corresponding function</string>
+    <string name="ftp_quick_start_confirm">There are currently no fingerprint information to the fingerprint input after the need to open quick start, whether immediate entry?</string>
+    <string name="ftp_quick_start_setting">Quick Start</string>
+    <string name="ftp_quick_start_setting_item_unlock">Unlock</string>
+    <string name="ftp_quick_start_setting_item_flashshot">Flash shot</string>
+    <string name="ftp_quick_start_setting_item_wechat">Wechat</string>
+    <string name="ftp_quick_start_setting_item_more">More</string>
+    <string name="ftp_quick_start_setting_app_occupancy">This feature has been occupied<xliff:g id="finger_name">%s</xliff:g></string>
+    <string name="ftp_quick_start_setting_camera_select_title">Select Camera</string>
+    <string name="ftp_quick_start_setting_camera_select_camera">Main Camera</string>
+    <string name="ftp_quick_start_setting_camera_select_subcamera">Sub Camera</string>
+    <string name="ftp_quick_start_setting_camera_select_finger_title">Click to set the finger</string>
+    <string name="ftp_quick_start_setting_camera_select_finger_summary">For you to more easily manage the fingerprint function, be sure to follow the corresponding finger fingerprint entry, such as not in accordance with the corresponding fingerprint input will affect your experience!</string>
+    <string name="ftp_quick_start_setting_camera_select_finger_toast">The finger has been entered, please use the other fingers entry!</string>
+    <string name="ftp_quick_start_setting_app_summary">Unlock and start<xliff:g id="finger_name">%s</xliff:g></string>
+    <string name="ftp_quick_start_setting_app_onlylock_summary">Available only unlocked</string>
+    <string name="ftp_enroll_done">Done</string>
+    <string name="ftp_delete_dialog_title">Remove fingerprints</string>
+    <string name="ftp_delete_dialog_msg">Confirm that you want to delete the fingerprint?</string>
+    <string name="ftp_camera_takephoto">Fingerprints, photographs</string>
+    <string name="ftp_camera_takephoto_summary">The camera interface is finger pressed fingerprints can photographs</string>
+    <string name="ftp_answer_call">Answer call</string>
+    <string name="ftp_answer_call_summary">Finger pressed fingerprints answer call</string>
+    <string name="ftp_browser_image">Browser image</string>
+    <string name="ftp_browser_image_summary">Gallery interface touch fingerprint can browse album</string>
+    <string name="ftp_play_music">Play music</string>
+    <string name="ftp_play_music_summary">Music player interface touch fingerprint can play and pause music</string>
+    <string name="ftp_play_video">Play video</string>
+    <string name="ftp_play_video_summary">Video player interface touch fingerprint can play and pause the video</string>
+    <string name="ftp_browser_home">Home page</string>
+    <string name="ftp_browser_home_summary">Home page touch fingerprint can flip</string>
+    <string name="ftp_string_more">More features</string>
+    <string name="ftp_quick_start_none">None</string>
+    <!-- add for egistec ftp -->
+    <string name="hct_gesture_string_changeup">Up</string>
+    <string name="hct_gesture_string_changedown">Down</string>
+    <string name="hct_gesture_string_changeleft">Left</string>
+    <string name="hct_gesture_string_changeright">Right</string>
+    <string name="hct_gesture_string_changem">Gesture m</string>
+    <!-- HCT: xuejin newschip fingerprint -->
+    <string name="sensor_removed">Sensor has been removed</string>
+    <string name="sensor_not_found">Sensor not found</string>
+    <string name="finger_previously_enrolled">Fingerprint has been previously enrolled</string>
+    <string name="too_many_bad_swipes">Too many bad captures</string>
+    <string name="mather_add_image_failed">Matcher add image failed</string>
+    <!-- HCT: xuejin newschip fingerprint -->
+
+    <!-- add by hct lijunyi, 2015-06-05, for desktop setting -->
+    <string name="hct_settings_desktop">Destkop</string>
+    <!-- end of add by hct lijunyi, 2015-06-05, for desktop setting -->
+
+    <!-- added by hct lijunyi, 2015-06-06, for HCT_SIM_SETTINGS -->
+    <string name="hct_sim_data_title">"Data services"</string>
+    <string name="hct_sim_data_content">"Mobile data connection enabled by default. Enabling mobile data connection may incur additional charges from operator,if you do not have an unlimited data plan."</string>
+    <string name="hct_sim_data_btn_disable">"Disable"</string>
+    <string name="hct_sim_data_btn_enable">"Enable"</string>
+    <string name="hct_sim_apn_title">"APN Config"</string>
+    <string name="hct_sim_apn_content">"In order to ensure full connectivity,please select default internet settings for your SIM-card. Please note that additional data costs may be charged by you operator when having an active data connection."</string>
+    <string name="hct_sim_apn_btn_change">"Change"</string>
+    <string name="hct_sim_apn_btn_close">"Close"</string>
+    <!-- end of added by hct lijunyi, 2015-06-06, for HCT_SIM_SETTINGS -->
+    <string name="hct_storage_info_title">Memory Info</string>
+    <string name="hct_storage_total_title">All Memory</string>
+    <string name="hct_storage_total_summary">16GB</string>
+    <string name="hct_storage_system_title">System</string>
+    <string name="hct_storage_system_summary">3.50GB</string>
+    <string name="hct_storage_phone_title">Phone storage</string>
+	<string name="hct_storage_phone_summary">12.50GB</string>
+    <string name="hardware_info">Hardware Info</string>
+    <string name="cpu_model">CPU Model</string>
+    <string name="cpu_model_info">MT6735</string>
+    <string name="cpu_core">CPU Core</string>
+    <string name="cpu_core_info">Quad-Core</string>
+    <string name="cpu_frequency">CPU Frequency</string>
+    <string name="cpu_frequency_info">1GHZ</string>
+    <string name="phone_rom">ROM</string>
+    <string name="phone_rom_info">16.0GB</string>
+    <string name="phone_ram">RAM</string>
+    <string name="phone_ram_info">2.0GB</string>
+    <string name="screen_resolution">Screen Resolution</string>
+    <string name="screen_resolution_info">1280x720</string>
+    <string name="screen_size">Screen Size</string>
+    <string name="screen_size_info">5.0 Inch</string>
+    <string name="key_brightness_title">Key Lamp</string>
+    <string name="key_brightness_summary">Selecte to open key lamp</string>
+<!-- macong -->
+
+    <string name="about_phone_setting">Tetsukue name：</string>
+  <string name="about_phone_info">DINGDING Phone</string>
+    
+    <!-- added by zhaoxiaoxiang -->
+    <string name="hct_goto_home_after_lock_title"> Go to home after unlock</string>
+    <string name="hct_goto_home_after_lock_title_sunmry"> Go to home after unlock</string>
+    <!-- end of added by zhaoxiaoxiang -->
+    <!-- added by liuwenbo-->
+    <string name="hct_customer_main_camera_title">Main Camera</string>
+    <string name="hct_customer_main_camera_summary">1300W</string>
+    <string name="hct_customer_sub_camerai_title">Sub Camera</string>
+    <string name="hct_customer_sub_camera_summary">500W</string>
+    <!-- end of added by liuwenbo -->
+    <!-- liuyang add begin @20150629 -->
+    <string name="hct_glove_mode_title" translatable="false">Glove mode</string>
+    <string name="hct_glove_mode_content" translatable="false">open the glove mode, put on gloves can also facilitate operate phone</string>
+    <!-- liuyang add end @20150629 -->
+    <!-- zhangwenqiang add begin @20150701 -->
+    <string name="hct_privacy_unlock_title">Privacy unlock</string>
+    <string name="hct_privacy_unlock_summary">Device unlocked always in Home screen</string>
+    <!-- zhangwenqiang add begin @20150701 -->
+   <!-- jiashixian  add  00000006#-->
+<string name="hct_visitor_mode_string">Visitor mode</string>
+<string name="visitor_mode_warning">Visitors mode will hide call logs, SMS messages, pictures, and prohibit editing desktop.</string>
+<string name="visitor_mode_description">Open Visitors mode will hide call logs, SMS messages, pictures, and prohibit editing desktop.</string>
+
+    <string name="lockapp_psw_wrong">"Wrong password"</string>
+    <string name="lockapp_psw_not_match">"Passwords do not match!"</string>
+    <string name="lockapp_psw_confirm">"Confirm your password"</string>
+    <string name="lockapp_continue">"continue"</string>
+    
+    <string name="enter_psw_16">"enter password (1-16)"</string>
+    <string name="clear_all">Clear</string>
+    <string name="header_back">Back</string>
+    <string name="title_setting">Settings</string>
+    
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+<!-- jiashixian  add  00000006#-->
+
+    <string name="mode_none">none</string>
+    <string name="mode_one">mode 1</string>
+    <string name="mode_two">mode 2</string>
+    <string name="mode_three">mode 3</string>
+    <string name="accessibility_smartmode_preference_title">Smart mode</string>
+   <string name="accessibility_toggle_smartread_preference_title">Smart Read</string>
+   <string name="accessibility_toggle_smartread_preference_summary">Detects that you are looking at the screen, the screen will continue to be lit for you</string>
+
+
+    <!-- added by hct jiashiian,  for psensor gesture 2015-06-010 -->
+    <string name="hct_psensor_gesture_title">Gesture</string>
+    <string name="hct_psensor_gesture_fmradio_title">FMRadio</string>
+    <string name="hct_psensor_gesture_fmradio_summary">In FMRadio,gently move your hand left or right above the screen to skip the next/prev channel.</string>
+    <string name="hct_psensor_gesture_gallery_title">Gallery</string>
+    <string name="hct_psensor_gesture_gallery_summary">In Gallery, gently move your hand left or right above the screen to skip to the next/prev picture</string>
+    <string name="hct_psensor_gesture_launcher_title">Launcher</string>
+    <string name="hct_psensor_gesture_launcher_summary">In Launcher,gently move your hand left or right above the screen to skip the next/prev page.</string>
+    <string name="hct_psensor_gesture_autoanswer_title">Call</string>
+    <string name="hct_psensor_gesture_autoanswer_summary">In Call,gently move your hand left or right above the screen to skip the answer/reject call.</string>
+      <string name="hct_psensor_gesture_music_title">Music</string>
+    <string name="hct_psensor_gesture_music_summary">In Music, gently move your hand left or right above the screen to skip the next/prev song</string>
+    <!-- end of add by hct jiashixian, 2015-06-10, for psensor gesture setting -->
+
+<!-- macong -->
+
+    <string name="about_phone_setting">Tetsukue name：</string>
+  <string name="about_phone_info">DINGDING Phone</string>
+<string name="about_phone_setting_cpu">Processor</string>
+<string name="about_phone_info_cpu">Quad-Core 1.0GHZ</string>
+<string name="about_phone_setting_ui">DDUI Release：</string>
+<string name="about_phone_info_ui">1.0</string>
+<string name="about_phone_setting_ram">Running out of memory</string>
+<string name="about_phone_info_ram">2.0GB</string>
+<string name="about_phone_setting_rom">Body storage</string>
+<string name="about_phone_info_rom">10.6G(Available)\n16.0G(Total capacity)</string>
+<string name="about_phone_setting_gpu">GPU</string>
+<string name="about_phone_info_gpu">OpenGL ES 3.1</string>
+
+<string name="device_info_default_manufacturers">Ark Electronic Technology</string>
+<string name="build_manufacturers">Manufacturers</string>
+<!--wangxiaobo start-->
+    <string name="power_onoff_music_title">Power on off music</string>
+<!--wangxiaobo end-->
+<!--caoweishuang start-->
+    <string name="woo_ota_update">Wireless update</string>
+<!--caoweishuang end-->
+<!-- add by hct-luoxiaosong for storage -->
+<string name="custom_total_memery_num">16GB</string>
+<!-- add by hct-luoxiaosong for storage end -->
+<!--Pocked Mode -->
+ <string name="pocket_mode_title">Pocked Mode</string>
+   <string name="pocket_mode_summary">Automatically increases ringtones in your pocket</string>
+   <!--add by hct-lvcheng-->   
+        <string name="sms_color">Unread Mms</string>
+    <string name="call_color">Missed Call</string>
+    <string name="batterylow_color">Battery Low</string>
+    <string name="batteryfull_color">Battery Full</string>
+    <string name="sms_color_summary">When there are unread messages,show</string>
+    <string name="call_color_summary">When there are missed calls,show</string>
+    <string name="batterylow_color_summary">When the power is less than 15%%,show</string>
+    <string name="batteryfull_color_summary">When the power is nearlly full,show</string>
+    <string name="notifycolor_green">green</string>
+    <string name="notifycolor_blue">blue</string>
+    <string name="notifycolor_red">red</string>
+     <string name="hct_three_color_light">Three-color light</string>
+   <string name="notice_indicator_title">"notice indicator"</string>
+   <string name="notice_indicator_summary">"After receiving notification,LED exhibit of lanterns"</string>
+   <string name="battery_indicator_title">"battery indicator"</string>
+   <string name="battery_indicator_summary">"Charging or low battery, indicating that exhibit of lanterns"</string>
+ <!--add by hct-lvcheng-->  
+</resources>

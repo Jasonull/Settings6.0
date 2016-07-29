@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- HCT: xuejin fingerprint-->
+      <string-array name="finger_total_name">
+        <item>左手小拇指</item>
+        <item>左手无名指</item>
+        <item>左手中指</item>
+        <item>左手食指</item>
+        <item>左手大拇指</item>
+        <item>右手大拇指</item>
+        <item>右手食指</item>
+        <item>右手中指</item>
+        <item>右手无名指</item>
+        <item>右手小拇指</item>
+      </string-array>
+    <!-- HCT: xuejin fingerprint end -->
+       <!-- HCT: lvcheng add  begin -->
+      <string-array name="color_entries">
+            <item>绿</item>
+            <item>蓝</item>
+            <item>红</item>
+        </string-array>
+        <string-array name="color_values">
+            <item>green</item>
+            <item>blue</item>
+            <item>red</item>
+        </string-array>  
+       <!-- HCT: lvcheng add  end --> 
+</resources>

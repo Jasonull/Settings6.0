@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- added by zhaoxiaoxiang -->
+    <string name="hct_goto_home_after_lock_title">Va sulla schermata Home dopo lo sblocco</string>
+    <string name="hct_goto_home_after_lock_title_sunmry">Va sulla schermata Home dopo lo sblocco</string>
+    <!-- end of added by zhaoxiaoxiang -->
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" 
+           android:title="@string/hct_three_color_light" >
+          <CheckBoxPreference 
+                  android:key="notice_color_light"  
+                  android:title="@string/notice_indicator_title" 
+                  android:summary="@string/notice_indicator_summary"  
+                  android:defaultValue="true"> 
+             </CheckBoxPreference>   
+        <ListPreference android:persistent="false"
+          android:key="sms_notify_color"   
+          android:title="@string/sms_color" 
+          android:summary="@string/sms_color_summary"
+           android:entries="@array/color_entries"
+         android:entryValues="@array/color_values" />
+       <ListPreference android:persistent="false" 
+           android:key="misscall_notify_color" 
+          android:title="@string/call_color" 
+           android:summary="@string/call_color_summary" 
+           android:entries="@array/color_entries"
+         android:entryValues="@array/color_values" />
+
+ <CheckBoxPreference 
+                  android:key="notice_color_light_power"  
+                  android:title="@string/battery_indicator_title" 
+                  android:summary="@string/battery_indicator_summary"  
+                  android:defaultValue="true"> 
+             </CheckBoxPreference> 
+       <ListPreference android:persistent="false" 
+            android:key="batterylow_notify_color" 
+            android:title="@string/batterylow_color" 
+            android:summary="@string/batterylow_color_summary" 
+           android:entries="@array/color_entries"
+           android:entryValues="@array/color_values" />
+      
+
+       <ListPreference android:persistent="false" 
+            android:key="batteryfull_notify_color" 
+          android:title="@string/batteryfull_color" 
+           android:summary="@string/batteryfull_color_summary" 
+          android:entries="@array/color_entries"
+         android:entryValues="@array/color_values" />    
+  </PreferenceScreen>

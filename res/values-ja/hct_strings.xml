@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- <<hct:mingming.wu -->
+    <string name="accessibility_gesture_preference_title">ジェスチャー</string>
+    <string name="accessibility_somatosensory_preference_title">スマートジェスチャー</string>
+
+    <string name="accessibility_toggle_gallery_preference_title">ギャラリー</string>
+    <string name="accessibility_toggle_gallery_preference_summary">ギャラリーの画像をノータッチジェスチャーで閲覧します</string>
+    <string name="accessibility_toggle_music_preference_title">音楽プレーヤー</string>
+    <string name="accessibility_toggle_music_preference_summary">音楽の次の曲、前の曲へのスキップをジェスチャーで操作します</string>
+    <string name="accessibility_toggle_camera_preference_title">カメラ</string>
+    <string name="accessibility_toggle_camera_preference_summary">ノータッチジェスチャーで写真の撮影が可能です。</string>
+    <string name="accessibility_toggle_launcher_preference_title">ホーム画面</string>
+    <string name="accessibility_toggle_launcher_preference_summary">ノータッチジェスチャーでホーム画面の移動が可能です。</string>
+    <string name="accessibility_toggle_lockscreen_preference_title">画面ロック解除</string>
+    <string name="accessibility_toggle_lockscreen_preference_summary">センサー上で手を振る操作をすると画面のロックが解除できます。</string>
+
+    <string name="accessibility_toggle_mmsdial_preference_title">SMS閲覧時の発信</string>
+    <string name="accessibility_toggle_mmsdial_preference_summary">SMS閲覧中に携帯電話を顔に近づけると、SMSの相手に電話をかけることができます。</string>
+    <string name="accessibility_toggle_contactdial_preference_title">連絡先に電話をかける</string>
+    <string name="accessibility_toggle_contactdial_preference_summary">連絡先の画面で携帯電話を顔に近づけると、表示中の連絡先に電話をかけることがきます。</string>
+    <string name="accessibility_toggle_autoanswer_preference_title">運転中の応答</string>
+    <string name="accessibility_toggle_autoanswer_preference_summary">着信時に2秒間距離センサーに手のひらを近づけると電話に出ることができます。</string>
+    <!-- hct:mingming.wu -->
+    <string name="hct_title_gesture_motion">ジェスチャー</string>
+    <string name="hct_title_system_motion">システム制御</string>
+    <string name="hct_title_system_motion">システム制御</string>
+    <string name="gesture_unlock">ジェスチャーアンロック</string>
+    <string name="hct_glove_mode_title" translatable="false">手ぶくろモード</string>
+    <string name="hct_glove_mode_content" translatable="false">手袋モードを有効にすると、手袋をした状態でも端末の操作がしやすくなります</string>
+    <string name="hct_goto_home_after_lock_title">ロック解除後はホーム画面を表示</string>
+    <string name="hct_goto_home_after_lock_title_sunmry">ロック解除後はホーム画面を表示</string>
+    <string name="hct_title_three_point_screenshot">3本指でスクリーンショット</string>
+    <string name="hct_title_three_point_screenshot_mark">三本指で下にスライドしてスクリーンショットを取得</string>
+    <string name="hct_title_clipscreen">クリップスクリーン</string>
+    <string name="hct_title_clipscreen_mark">メニューキーを長押しでクリップスクリーンモードを開始</string>
+    <string name="hct_title_three_point_entrycamera">三本指でカメラを起動</string>
+    <string name="hct_title_three_point_entrycamera_mark">三本指で上にスライドしてカメラを起動</string>
+    <string name="hct_title_two_point_adjust_volume">二本指で音量を調節</string>
+    <string name="hct_title_two_point_adjust_volume_mark">二本指で上下にスワイプして音量を調節</string>
+    <string name="hct_title_double_click_lock">ダブルタップでロック</string>
+    <string name="hct_title_double_click_lock_mark">任意の画面でホームキーをダブルタップして画面をロック</string>
+
+    <string name="gesture_unlock">ジェスチャーアンロック</string>
+    <string name="gesture_double">スリープ状態からダブルタップで画面をON</string>
+    <string name="gesture_up">上にスライドしてロック解除</string>
+    <string name="gesture_down">下にスライドしてカメラ起動</string>
+    <string name="gesture_left_right">左右にフリックして曲をスキップ</string>
+    <string name="gesture_m">mを描いて音楽を再生／停止</string>
+    <string name="hct_select_app">アプリを選択してください</string>
+    <string name="hct_gesture_c_title">cを描いてアプリを起動</string>
+    <string name="hct_gesture_e_title">eを描いてアプリを起動</string>
+    <string name="hct_gesture_o_title">oを描いてアプリを起動</string>
+    <string name="hct_gesture_w_title">wを描いてアプリを起動</string>
+    <string name="hct_gesture_z_title">zを描いてアプリを起動</string>
+    <string name="hct_gesture_action">アプリ名</string>
+    <string name="hct_gesture_choose_app"> アプリを選択してください</string>
+ <string name="open_auto_answer_warning">手帳タイプのカバーをご利用の場合、この機能はおすすめできません。</string>
+
+    <string name="hct_visitor_mode_string">ゲストモード</string>
+    <string name="visitor_mode_warning">～は電話の発着信履歴、SMSメッセージ、写真を非表示にして、ホーム画面の編集を禁止します。</string>
+    <string name="visitor_mode_description">～を起動すると電話の発着信履歴、SMSメッセージ、写真を非表示にして、ホーム画面の編集を禁止します。</string>
+ 
+    <string name="lockapp_psw_wrong">"パスワードが正しくありません。"</string>
+    <string name="lockapp_psw_not_match">"パスワードが一致しません！"</string>
+    <string name="lockapp_psw_confirm">"パスワードを再入力してください"</string>
+    <string name="lockapp_continue">"続行"</string>
+    
+    <string name="enter_psw_16">"１～１６桁内でパスワードを入力してください。"</string>
+    <string name="clear_all">クリア</string>
+    <string name="header_back">バック</string>
+    <string name="title_setting">設定</string>
+
+    <string name="mode_none">設定なし</string>
+    <string name="mode_one">モード1</string>
+    <string name="mode_two">モード2</string>
+    <string name="mode_three">モード3</string>
+     
+</resources>

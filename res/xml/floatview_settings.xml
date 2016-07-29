@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/hct_floatview_title" >
+
+    <CheckBoxPreference
+        android:key="floatview_checkbox"
+        android:title="@string/hct_floatview_open" />
+
+
+    <Preference
+        android:key="floatview_settings"
+        android:title="@string/hct_floatview_settings" />
+
+
+</PreferenceScreen>

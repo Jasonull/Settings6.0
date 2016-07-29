@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- added by hct lijunyi, 2015-06-06, for HCT_SIM_SETTINGS -->
+    <string name="hct_sim_data_title">"Data palvelut"</string>
+    <string name="hct_sim_data_content">"Mobiilidatayhteys oletusarvoisesti käytössä. Ottaminen mobiilidatayhteys voivat olla lisämaksullisia operaattorin, jos sinulla ei ole rajoittamaton data suunnitelma."</string>
+    <string name="hct_sim_data_btn_disable">"Poista"</string>
+    <string name="hct_sim_data_btn_enable">"Mahdollistaa"</string>
+    <string name="hct_sim_apn_title">"APN Config"</string>
+    <string name="hct_sim_apn_content">"In order to ensure full connectivity,please select default internet settings for your SIM-card. Please note that additional data costs may be charged by you operator when having an active data connection."</string>
+    <string name="hct_sim_apn_btn_change">"Change"</string>
+    <string name="hct_sim_apn_btn_close">"Close"</string>
+    <!-- end of added by hct lijunyi, 2015-06-06, for HCT_SIM_SETTINGS -->
+</resources>
